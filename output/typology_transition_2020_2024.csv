@@ -1,0 +1,274 @@
+Kab_kota,Provinsi,Pulau,pct_lansia_2020,p0_miskin_2020,Tipologi_2020,pct_lansia_2024,p0_miskin_2024,Tipologi_2024,delta_pct_lansia,delta_p0_miskin,berubah_tipologi
+Simeulue,Aceh,Sumatera,7.3698,18.49,Lansia rendah - Kemiskinan tinggi,8.484,17.69,Lansia rendah - Kemiskinan tinggi,1.1142000000000003,-0.7999999999999972,False
+Aceh Singkil,Aceh,Sumatera,5.4018,20.2,Lansia rendah - Kemiskinan tinggi,6.3405,19.06,Lansia rendah - Kemiskinan tinggi,0.9386999999999999,-1.1400000000000006,False
+Aceh Selatan,Aceh,Sumatera,9.5683,12.87,Lansia rendah - Kemiskinan tinggi,10.7883,12.02,Lansia tinggi - Kemiskinan tinggi,1.2199999999999989,-0.8499999999999996,True
+Aceh Tenggara,Aceh,Sumatera,7.2553,13.21,Lansia rendah - Kemiskinan tinggi,8.2391,11.99,Lansia rendah - Kemiskinan tinggi,0.9838000000000005,-1.2200000000000006,False
+Aceh Timur,Aceh,Sumatera,6.7007,14.08,Lansia rendah - Kemiskinan tinggi,7.9263,13.26,Lansia rendah - Kemiskinan tinggi,1.2256,-0.8200000000000003,False
+Aceh Tengah,Aceh,Sumatera,7.769,15.08,Lansia rendah - Kemiskinan tinggi,8.8787,14.27,Lansia rendah - Kemiskinan tinggi,1.1097000000000001,-0.8100000000000005,False
+Aceh Barat,Aceh,Sumatera,8.7936,18.34,Lansia rendah - Kemiskinan tinggi,10.1682,17.6,Lansia tinggi - Kemiskinan tinggi,1.374600000000001,-0.7399999999999984,True
+Aceh Besar,Aceh,Sumatera,8.3539,13.84,Lansia rendah - Kemiskinan tinggi,9.475,13.21,Lansia rendah - Kemiskinan tinggi,1.1211000000000002,-0.629999999999999,False
+Pidie,Aceh,Sumatera,10.2133,19.23,Lansia tinggi - Kemiskinan tinggi,10.8519,18.59,Lansia tinggi - Kemiskinan tinggi,0.6386000000000003,-0.6400000000000006,False
+Bireuen,Aceh,Sumatera,8.9061,13.06,Lansia rendah - Kemiskinan tinggi,9.9862,12.1,Lansia rendah - Kemiskinan tinggi,1.0800999999999998,-0.9600000000000009,False
+Aceh Utara,Aceh,Sumatera,8.1068,17.02,Lansia rendah - Kemiskinan tinggi,9.3803,16.11,Lansia rendah - Kemiskinan tinggi,1.2735000000000003,-0.9100000000000001,False
+Aceh Barat Daya,Aceh,Sumatera,8.2089,15.93,Lansia rendah - Kemiskinan tinggi,9.5001,15.32,Lansia rendah - Kemiskinan tinggi,1.2912,-0.6099999999999994,False
+Gayo Lues,Aceh,Sumatera,6.2352,19.32,Lansia rendah - Kemiskinan tinggi,6.9191,18.3,Lansia rendah - Kemiskinan tinggi,0.6839000000000004,-1.0199999999999996,False
+Aceh Tamiang,Aceh,Sumatera,7.7338,13.08,Lansia rendah - Kemiskinan tinggi,9.3267,12.17,Lansia rendah - Kemiskinan tinggi,1.592900000000001,-0.9100000000000001,False
+Nagan Raya,Aceh,Sumatera,9.2671,17.7,Lansia rendah - Kemiskinan tinggi,10.2517,16.94,Lansia tinggi - Kemiskinan tinggi,0.9846000000000004,-0.759999999999998,True
+Aceh Jaya,Aceh,Sumatera,8.1259,12.87,Lansia rendah - Kemiskinan tinggi,8.7581,12.25,Lansia rendah - Kemiskinan tinggi,0.632200000000001,-0.6199999999999992,False
+Bener Meriah,Aceh,Sumatera,7.3248,18.89,Lansia rendah - Kemiskinan tinggi,8.2634,18.18,Lansia rendah - Kemiskinan tinggi,0.938600000000001,-0.7100000000000009,False
+Pidie Jaya,Aceh,Sumatera,9.9882,19.19,Lansia rendah - Kemiskinan tinggi,10.548,18.28,Lansia tinggi - Kemiskinan tinggi,0.5597999999999992,-0.9100000000000001,True
+Kota Banda Aceh,Aceh,Sumatera,6.809,6.9,Lansia rendah - Kemiskinan rendah,8.4371,6.95,Lansia rendah - Kemiskinan rendah,1.628099999999999,0.04999999999999982,False
+Kota Sabang,Aceh,Sumatera,8.6754,14.94,Lansia rendah - Kemiskinan tinggi,9.5077,14.58,Lansia rendah - Kemiskinan tinggi,0.8323,-0.35999999999999943,False
+Kota Langsa,Aceh,Sumatera,8.1335,10.44,Lansia rendah - Kemiskinan tinggi,9.6524,10.33,Lansia rendah - Kemiskinan tinggi,1.5189000000000004,-0.10999999999999943,False
+Kota Lhokseumawe,Aceh,Sumatera,7.1754,10.8,Lansia rendah - Kemiskinan tinggi,8.8008,10.44,Lansia rendah - Kemiskinan tinggi,1.6254000000000008,-0.3600000000000012,False
+Kota Subulussalam,Aceh,Sumatera,4.6247,17.6,Lansia rendah - Kemiskinan tinggi,5.436,16.38,Lansia rendah - Kemiskinan tinggi,0.8113000000000001,-1.2200000000000024,False
+Nias,Sumatera Utara,Sumatera,6.6795,16.6,Lansia rendah - Kemiskinan tinggi,7.5802,14.89,Lansia rendah - Kemiskinan tinggi,0.9006999999999996,-1.7100000000000009,False
+Mandailing Natal,Sumatera Utara,Sumatera,7.6234,9.18,Lansia rendah - Kemiskinan rendah,8.7654,8.69,Lansia rendah - Kemiskinan rendah,1.1419999999999995,-0.4900000000000002,False
+Tapanuli Selatan,Sumatera Utara,Sumatera,7.9386,8.47,Lansia rendah - Kemiskinan rendah,9.3224,6.92,Lansia rendah - Kemiskinan rendah,1.3838,-1.5500000000000007,False
+Tapanuli Tengah,Sumatera Utara,Sumatera,7.8296,12.38,Lansia rendah - Kemiskinan tinggi,8.5858,11.8,Lansia rendah - Kemiskinan tinggi,0.7562000000000006,-0.5800000000000001,False
+Tapanuli Utara,Sumatera Utara,Sumatera,10.7988,9.37,Lansia tinggi - Kemiskinan rendah,11.7143,8.21,Lansia tinggi - Kemiskinan rendah,0.9154999999999998,-1.1599999999999984,False
+Toba Samosir / Toba,Sumatera Utara,Sumatera,10.7522,8.71,Lansia tinggi - Kemiskinan rendah,11.4443,8.07,Lansia tinggi - Kemiskinan rendah,0.6920999999999999,-0.6400000000000006,False
+Labuhan Batu,Sumatera Utara,Sumatera,6.7613,8.44,Lansia rendah - Kemiskinan rendah,8.0917,7.84,Lansia rendah - Kemiskinan rendah,1.3303999999999991,-0.5999999999999996,False
+Asahan,Sumatera Utara,Sumatera,8.1141,9.04,Lansia rendah - Kemiskinan rendah,9.5788,8.12,Lansia rendah - Kemiskinan rendah,1.4646999999999988,-0.9199999999999999,False
+Simalungun,Sumatera Utara,Sumatera,10.7575,8.46,Lansia tinggi - Kemiskinan rendah,11.8861,7.72,Lansia tinggi - Kemiskinan rendah,1.1286000000000005,-0.7400000000000011,False
+Dairi,Sumatera Utara,Sumatera,9.3353,8.04,Lansia rendah - Kemiskinan rendah,10.3471,7.1,Lansia tinggi - Kemiskinan rendah,1.0117999999999991,-0.9399999999999995,True
+Karo,Sumatera Utara,Sumatera,9.8714,8.7,Lansia rendah - Kemiskinan rendah,10.8917,7.37,Lansia tinggi - Kemiskinan rendah,1.0203000000000007,-1.3299999999999992,True
+Deli Serdang,Sumatera Utara,Sumatera,7.6218,3.88,Lansia rendah - Kemiskinan rendah,9.3505,3.44,Lansia rendah - Kemiskinan rendah,1.7287,-0.43999999999999995,False
+Langkat,Sumatera Utara,Sumatera,8.643,9.73,Lansia rendah - Kemiskinan tinggi,10.441,9.04,Lansia tinggi - Kemiskinan rendah,1.798,-0.6900000000000013,True
+Nias Selatan,Sumatera Utara,Sumatera,5.6616,16.74,Lansia rendah - Kemiskinan tinggi,6.6333,16.32,Lansia rendah - Kemiskinan tinggi,0.9717000000000002,-0.41999999999999815,False
+Humbang Hasundutan,Sumatera Utara,Sumatera,10.227,9.36,Lansia tinggi - Kemiskinan rendah,11.0839,8.44,Lansia tinggi - Kemiskinan rendah,0.8568999999999996,-0.9199999999999999,False
+Pakpak Bharat,Sumatera Utara,Sumatera,6.6971,9.28,Lansia rendah - Kemiskinan rendah,7.1746,6.87,Lansia rendah - Kemiskinan rendah,0.47750000000000004,-2.4099999999999993,False
+Samosir,Sumatera Utara,Sumatera,11.0568,12.48,Lansia tinggi - Kemiskinan tinggi,11.8654,11.63,Lansia tinggi - Kemiskinan tinggi,0.8085999999999984,-0.8499999999999996,False
+Serdang Bedagai,Sumatera Utara,Sumatera,8.736,7.97,Lansia rendah - Kemiskinan rendah,10.3573,6.97,Lansia tinggi - Kemiskinan rendah,1.6212999999999997,-1.0,True
+Batu Bara,Sumatera Utara,Sumatera,8.1999,11.88,Lansia rendah - Kemiskinan tinggi,9.5907,10.94,Lansia rendah - Kemiskinan tinggi,1.3908000000000005,-0.9400000000000013,False
+Padang Lawas Utara,Sumatera Utara,Sumatera,5.8757,9.7,Lansia rendah - Kemiskinan tinggi,6.7531,8.97,Lansia rendah - Kemiskinan rendah,0.8773999999999997,-0.7299999999999986,True
+Padang Lawas,Sumatera Utara,Sumatera,5.6752,8.37,Lansia rendah - Kemiskinan rendah,6.8014,7.87,Lansia rendah - Kemiskinan rendah,1.1261999999999999,-0.4999999999999991,False
+Labuhan Batu Selatan,Sumatera Utara,Sumatera,4.974,8.34,Lansia rendah - Kemiskinan rendah,6.4713,7.73,Lansia rendah - Kemiskinan rendah,1.4973,-0.6099999999999994,False
+Labuhan Batu Utara,Sumatera Utara,Sumatera,6.5574,9.53,Lansia rendah - Kemiskinan tinggi,7.8819,8.98,Lansia rendah - Kemiskinan rendah,1.3244999999999996,-0.5499999999999989,True
+Nias Utara,Sumatera Utara,Sumatera,6.4804,25.07,Lansia rendah - Kemiskinan tinggi,7.4258,21.5,Lansia rendah - Kemiskinan tinggi,0.9453999999999994,-3.5700000000000003,False
+Nias Barat,Sumatera Utara,Sumatera,6.6393,25.69,Lansia rendah - Kemiskinan tinggi,7.2945,22.68,Lansia rendah - Kemiskinan tinggi,0.6551999999999998,-3.0100000000000016,False
+Kota Sibolga,Sumatera Utara,Sumatera,7.5125,11.95,Lansia rendah - Kemiskinan tinggi,8.9943,11.39,Lansia rendah - Kemiskinan tinggi,1.4818000000000007,-0.5599999999999987,False
+Kota Tanjung Balai,Sumatera Utara,Sumatera,7.1018,13.33,Lansia rendah - Kemiskinan tinggi,8.5011,11.97,Lansia rendah - Kemiskinan tinggi,1.3992999999999993,-1.3599999999999994,False
+Kota Pematang Siantar,Sumatera Utara,Sumatera,11.3105,8.27,Lansia tinggi - Kemiskinan rendah,12.8166,7.2,Lansia tinggi - Kemiskinan rendah,1.5061,-1.0699999999999994,False
+Kota Tebing Tinggi,Sumatera Utara,Sumatera,9.4221,9.85,Lansia rendah - Kemiskinan tinggi,11.2473,8.79,Lansia tinggi - Kemiskinan rendah,1.8251999999999988,-1.0600000000000005,True
+Kota Medan,Sumatera Utara,Sumatera,9.6428,8.01,Lansia rendah - Kemiskinan rendah,11.4296,7.94,Lansia tinggi - Kemiskinan rendah,1.7868000000000013,-0.0699999999999994,True
+Kota Binjai,Sumatera Utara,Sumatera,8.7157,5.71,Lansia rendah - Kemiskinan rendah,10.4252,4.75,Lansia tinggi - Kemiskinan rendah,1.7095000000000002,-0.96,True
+Kota Padangsidimpuan,Sumatera Utara,Sumatera,8.1704,7.4,Lansia rendah - Kemiskinan rendah,9.3811,6.23,Lansia rendah - Kemiskinan rendah,1.2106999999999992,-1.17,False
+Kota Gunungsitoli,Sumatera Utara,Sumatera,6.6653,16.41,Lansia rendah - Kemiskinan tinggi,7.7283,14.72,Lansia rendah - Kemiskinan tinggi,1.0629999999999997,-1.6899999999999995,False
+Kepulauan Mentawai,Sumatera Barat,Sumatera,6.5645,14.35,Lansia rendah - Kemiskinan tinggi,7.635,13.89,Lansia rendah - Kemiskinan tinggi,1.0705,-0.4599999999999991,False
+Pesisir Selatan,Sumatera Barat,Sumatera,10.6592,7.61,Lansia tinggi - Kemiskinan rendah,11.7646,7.49,Lansia tinggi - Kemiskinan rendah,1.1053999999999995,-0.1200000000000001,False
+Solok,Sumatera Barat,Sumatera,10.4969,7.81,Lansia tinggi - Kemiskinan rendah,11.7171,7.31,Lansia tinggi - Kemiskinan rendah,1.2202000000000002,-0.5,False
+Sijunjung,Sumatera Barat,Sumatera,9.1561,6.78,Lansia rendah - Kemiskinan rendah,10.4034,5.78,Lansia tinggi - Kemiskinan rendah,1.2472999999999992,-1.0,True
+Tanah Datar,Sumatera Barat,Sumatera,14.2899,4.4,Lansia tinggi - Kemiskinan rendah,15.5777,4.28,Lansia tinggi - Kemiskinan rendah,1.2878000000000007,-0.1200000000000001,False
+Padang Pariaman,Sumatera Barat,Sumatera,12.0148,6.95,Lansia tinggi - Kemiskinan rendah,12.6587,6.27,Lansia tinggi - Kemiskinan rendah,0.6439000000000004,-0.6800000000000006,False
+Agam,Sumatera Barat,Sumatera,13.358,6.75,Lansia tinggi - Kemiskinan rendah,14.4161,6.83,Lansia tinggi - Kemiskinan rendah,1.0580999999999996,0.08000000000000007,False
+Lima Puluh Kota,Sumatera Barat,Sumatera,12.5807,6.86,Lansia tinggi - Kemiskinan rendah,13.4273,6.92,Lansia tinggi - Kemiskinan rendah,0.8466000000000005,0.05999999999999961,False
+Pasaman,Sumatera Barat,Sumatera,9.1045,7.16,Lansia rendah - Kemiskinan rendah,10.3185,6.74,Lansia tinggi - Kemiskinan rendah,1.2140000000000004,-0.41999999999999993,True
+Solok Selatan,Sumatera Barat,Sumatera,8.468,7.15,Lansia rendah - Kemiskinan rendah,9.3271,6.56,Lansia rendah - Kemiskinan rendah,0.8590999999999998,-0.5900000000000007,False
+Dharmasraya,Sumatera Barat,Sumatera,7.8,6.23,Lansia rendah - Kemiskinan rendah,8.9577,5.32,Lansia rendah - Kemiskinan rendah,1.157700000000001,-0.9100000000000001,False
+Pasaman Barat,Sumatera Barat,Sumatera,6.9467,7.04,Lansia rendah - Kemiskinan rendah,8.3001,7.0,Lansia rendah - Kemiskinan rendah,1.3534000000000006,-0.040000000000000036,False
+Kota Padang,Sumatera Barat,Sumatera,9.7789,4.4,Lansia rendah - Kemiskinan rendah,11.4238,4.06,Lansia tinggi - Kemiskinan rendah,1.6448999999999998,-0.34000000000000075,True
+Kota Solok,Sumatera Barat,Sumatera,7.94,2.77,Lansia rendah - Kemiskinan rendah,9.4476,3.07,Lansia rendah - Kemiskinan rendah,1.5075999999999992,0.2999999999999998,False
+Kota Sawah Lunto,Sumatera Barat,Sumatera,10.9844,2.16,Lansia tinggi - Kemiskinan rendah,12.6228,2.33,Lansia tinggi - Kemiskinan rendah,1.638399999999999,0.16999999999999993,False
+Kota Padang Panjang,Sumatera Barat,Sumatera,9.1669,5.24,Lansia rendah - Kemiskinan rendah,10.3393,5.31,Lansia tinggi - Kemiskinan rendah,1.1723999999999997,0.0699999999999994,True
+Kota Bukittinggi,Sumatera Barat,Sumatera,9.6969,4.54,Lansia rendah - Kemiskinan rendah,11.1707,4.08,Lansia tinggi - Kemiskinan rendah,1.4738000000000007,-0.45999999999999996,True
+Kota Payakumbuh,Sumatera Barat,Sumatera,10.2174,5.65,Lansia tinggi - Kemiskinan rendah,11.6035,5.19,Lansia tinggi - Kemiskinan rendah,1.3861000000000008,-0.45999999999999996,False
+Kota Pariaman,Sumatera Barat,Sumatera,10.145,4.1,Lansia tinggi - Kemiskinan rendah,11.4566,4.26,Lansia tinggi - Kemiskinan rendah,1.3116000000000003,0.16000000000000014,False
+Kuantan Singingi,Riau,Sumatera,8.5388,8.91,Lansia rendah - Kemiskinan rendah,9.8949,7.89,Lansia rendah - Kemiskinan rendah,1.3560999999999996,-1.0200000000000005,False
+Indragiri Hulu,Riau,Sumatera,6.3192,5.96,Lansia rendah - Kemiskinan rendah,7.9252,6.02,Lansia rendah - Kemiskinan rendah,1.6059999999999999,0.05999999999999961,False
+Indragiri Hilir,Riau,Sumatera,7.5916,5.93,Lansia rendah - Kemiskinan rendah,9.0671,5.66,Lansia rendah - Kemiskinan rendah,1.4755000000000003,-0.2699999999999996,False
+Pelalawan,Riau,Sumatera,4.4628,9.16,Lansia rendah - Kemiskinan rendah,5.8541,8.49,Lansia rendah - Kemiskinan rendah,1.3913000000000002,-0.6699999999999999,False
+Siak,Riau,Sumatera,4.967,5.09,Lansia rendah - Kemiskinan rendah,6.4671,5.08,Lansia rendah - Kemiskinan rendah,1.5001000000000007,-0.009999999999999787,False
+Kampar,Riau,Sumatera,6.0766,7.38,Lansia rendah - Kemiskinan rendah,7.6419,6.92,Lansia rendah - Kemiskinan rendah,1.5652999999999997,-0.45999999999999996,False
+Rokan Hulu,Riau,Sumatera,6.0324,10.31,Lansia rendah - Kemiskinan tinggi,7.4335,9.62,Lansia rendah - Kemiskinan tinggi,1.4011000000000005,-0.6900000000000013,False
+Bengkalis,Riau,Sumatera,6.9785,6.4,Lansia rendah - Kemiskinan rendah,9.3552,6.36,Lansia rendah - Kemiskinan rendah,2.3766999999999996,-0.040000000000000036,False
+Rokan Hilir,Riau,Sumatera,6.2612,6.72,Lansia rendah - Kemiskinan rendah,7.8453,7.01,Lansia rendah - Kemiskinan rendah,1.5841000000000003,0.29000000000000004,False
+Kepulauan Meranti,Riau,Sumatera,9.4607,25.28,Lansia rendah - Kemiskinan tinggi,10.8315,23.15,Lansia tinggi - Kemiskinan tinggi,1.370800000000001,-2.1300000000000026,True
+Kota Pekanbaru,Riau,Sumatera,6.7854,2.62,Lansia rendah - Kemiskinan rendah,8.8139,3.15,Lansia rendah - Kemiskinan rendah,2.0285,0.5299999999999998,False
+Kota Dumai,Riau,Sumatera,6.4679,3.16,Lansia rendah - Kemiskinan rendah,8.062,3.14,Lansia rendah - Kemiskinan rendah,1.5940999999999992,-0.020000000000000018,False
+Kerinci,Jambi,Sumatera,12.3552,7.3,Lansia tinggi - Kemiskinan rendah,13.1356,6.93,Lansia tinggi - Kemiskinan rendah,0.7804000000000002,-0.3700000000000001,False
+Merangin,Jambi,Sumatera,7.1224,8.63,Lansia rendah - Kemiskinan rendah,8.7906,8.4,Lansia rendah - Kemiskinan rendah,1.6681999999999997,-0.23000000000000043,False
+Sarolangun,Jambi,Sumatera,6.642,8.42,Lansia rendah - Kemiskinan rendah,8.075,8.36,Lansia rendah - Kemiskinan rendah,1.432999999999999,-0.0600000000000005,False
+Batang Hari,Jambi,Sumatera,7.2244,9.65,Lansia rendah - Kemiskinan tinggi,8.9537,8.63,Lansia rendah - Kemiskinan rendah,1.7292999999999994,-1.0199999999999996,True
+Muaro Jambi,Jambi,Sumatera,6.346,3.83,Lansia rendah - Kemiskinan rendah,8.4705,3.65,Lansia rendah - Kemiskinan rendah,2.1244999999999994,-0.18000000000000016,False
+Tanjung Jabung Timur,Jambi,Sumatera,9.6278,10.95,Lansia rendah - Kemiskinan tinggi,10.8585,10.14,Lansia tinggi - Kemiskinan tinggi,1.2306999999999988,-0.8099999999999987,True
+Tanjung Jabung Barat,Jambi,Sumatera,7.1808,10.29,Lansia rendah - Kemiskinan tinggi,8.9116,9.54,Lansia rendah - Kemiskinan tinggi,1.7308000000000003,-0.75,False
+Tebo,Jambi,Sumatera,7.3519,6.26,Lansia rendah - Kemiskinan rendah,8.8552,6.12,Lansia rendah - Kemiskinan rendah,1.5033000000000003,-0.13999999999999968,False
+Bungo,Jambi,Sumatera,7.3421,5.8,Lansia rendah - Kemiskinan rendah,8.8019,5.06,Lansia rendah - Kemiskinan rendah,1.4597999999999995,-0.7400000000000002,False
+Kota Jambi,Jambi,Sumatera,8.2346,8.27,Lansia rendah - Kemiskinan rendah,10.2434,7.73,Lansia tinggi - Kemiskinan rendah,2.008799999999999,-0.5399999999999991,True
+Kota Sungai Penuh,Jambi,Sumatera,11.9304,3.03,Lansia tinggi - Kemiskinan rendah,12.4446,2.92,Lansia tinggi - Kemiskinan rendah,0.5141999999999989,-0.10999999999999988,False
+Ogan Komering Ulu,Sumatera Selatan,Sumatera,8.5157,12.75,Lansia rendah - Kemiskinan tinggi,10.0016,10.68,Lansia rendah - Kemiskinan tinggi,1.485899999999999,-2.0700000000000003,False
+Ogan Komering Ilir,Sumatera Selatan,Sumatera,7.9077,14.73,Lansia rendah - Kemiskinan tinggi,9.5053,12.08,Lansia rendah - Kemiskinan tinggi,1.5976,-2.6500000000000004,False
+Muara Enim,Sumatera Selatan,Sumatera,8.4707,12.32,Lansia rendah - Kemiskinan tinggi,10.0098,9.79,Lansia rendah - Kemiskinan tinggi,1.5390999999999995,-2.530000000000001,False
+Lahat,Sumatera Selatan,Sumatera,9.7247,15.95,Lansia rendah - Kemiskinan tinggi,10.9429,14.14,Lansia tinggi - Kemiskinan tinggi,1.2181999999999995,-1.8099999999999987,True
+Musi Rawas,Sumatera Selatan,Sumatera,8.8801,13.5,Lansia rendah - Kemiskinan tinggi,10.3243,13.44,Lansia tinggi - Kemiskinan tinggi,1.4441999999999986,-0.0600000000000005,True
+Musi Banyuasin,Sumatera Selatan,Sumatera,7.4827,16.13,Lansia rendah - Kemiskinan tinggi,8.7195,12.88,Lansia rendah - Kemiskinan tinggi,1.2367999999999997,-3.2499999999999982,False
+Banyu Asin,Sumatera Selatan,Sumatera,8.1124,11.17,Lansia rendah - Kemiskinan tinggi,9.854,9.31,Lansia rendah - Kemiskinan rendah,1.7416,-1.8599999999999994,True
+Ogan Komering Ulu Selatan,Sumatera Selatan,Sumatera,8.7393,10.85,Lansia rendah - Kemiskinan tinggi,9.9733,9.86,Lansia rendah - Kemiskinan tinggi,1.234,-0.9900000000000002,False
+Ogan Komering Ulu Timur,Sumatera Selatan,Sumatera,9.9062,10.43,Lansia rendah - Kemiskinan tinggi,11.3853,9.75,Lansia tinggi - Kemiskinan tinggi,1.4791000000000007,-0.6799999999999997,True
+Ogan Ilir,Sumatera Selatan,Sumatera,8.8633,13.36,Lansia rendah - Kemiskinan tinggi,10.4524,12.3,Lansia tinggi - Kemiskinan tinggi,1.5891000000000002,-1.0599999999999987,True
+Empat Lawang,Sumatera Selatan,Sumatera,9.8731,12.63,Lansia rendah - Kemiskinan tinggi,10.6148,10.78,Lansia tinggi - Kemiskinan tinggi,0.7416999999999998,-1.8500000000000014,True
+Penukal Abab Lematang Ilir,Sumatera Selatan,Sumatera,7.0292,12.62,Lansia rendah - Kemiskinan tinggi,8.2173,9.82,Lansia rendah - Kemiskinan tinggi,1.1880999999999995,-2.799999999999999,False
+Musi Rawas Utara,Sumatera Selatan,Sumatera,7.7136,19.47,Lansia rendah - Kemiskinan tinggi,9.1597,17.38,Lansia rendah - Kemiskinan tinggi,1.4461000000000013,-2.09,False
+Kota Palembang,Sumatera Selatan,Sumatera,9.6421,10.89,Lansia rendah - Kemiskinan tinggi,11.3128,9.77,Lansia tinggi - Kemiskinan tinggi,1.6707,-1.120000000000001,True
+Kota Prabumulih,Sumatera Selatan,Sumatera,7.2646,11.59,Lansia rendah - Kemiskinan tinggi,8.7781,10.13,Lansia rendah - Kemiskinan tinggi,1.5135000000000005,-1.459999999999999,False
+Kota Pagar Alam,Sumatera Selatan,Sumatera,9.9184,9.07,Lansia rendah - Kemiskinan rendah,11.2534,8.18,Lansia tinggi - Kemiskinan rendah,1.334999999999999,-0.8900000000000006,True
+Kota Lubuklinggau,Sumatera Selatan,Sumatera,7.6749,12.71,Lansia rendah - Kemiskinan tinggi,9.2536,11.14,Lansia rendah - Kemiskinan tinggi,1.5787000000000004,-1.5700000000000003,False
+Bengkulu Selatan,Bengkulu,Sumatera,9.4593,17.82,Lansia rendah - Kemiskinan tinggi,10.9535,17.1,Lansia tinggi - Kemiskinan tinggi,1.4941999999999993,-0.7199999999999989,True
+Rejang Lebong,Bengkulu,Sumatera,8.6837,15.85,Lansia rendah - Kemiskinan tinggi,10.2665,14.65,Lansia tinggi - Kemiskinan tinggi,1.5828000000000007,-1.1999999999999993,True
+Bengkulu Utara,Bengkulu,Sumatera,8.9443,11.67,Lansia rendah - Kemiskinan tinggi,10.3381,10.96,Lansia tinggi - Kemiskinan tinggi,1.3938000000000006,-0.7099999999999991,True
+Kaur,Bengkulu,Sumatera,8.7119,18.47,Lansia rendah - Kemiskinan tinggi,10.1508,17.12,Lansia tinggi - Kemiskinan tinggi,1.4389000000000003,-1.3499999999999979,True
+Seluma,Bengkulu,Sumatera,8.6051,18.56,Lansia rendah - Kemiskinan tinggi,10.0617,17.23,Lansia rendah - Kemiskinan tinggi,1.4566,-1.3299999999999983,False
+Mukomuko,Bengkulu,Sumatera,7.0883,11.72,Lansia rendah - Kemiskinan tinggi,8.3704,10.76,Lansia rendah - Kemiskinan tinggi,1.2820999999999998,-0.9600000000000009,False
+Lebong,Bengkulu,Sumatera,9.5698,11.85,Lansia rendah - Kemiskinan tinggi,10.9781,10.45,Lansia tinggi - Kemiskinan tinggi,1.4082999999999988,-1.4000000000000004,True
+Kepahiang,Bengkulu,Sumatera,8.3433,14.69,Lansia rendah - Kemiskinan tinggi,9.9352,12.9,Lansia rendah - Kemiskinan tinggi,1.5919000000000008,-1.7899999999999991,False
+Bengkulu Tengah,Bengkulu,Sumatera,7.8565,9.3,Lansia rendah - Kemiskinan rendah,9.0737,10.14,Lansia rendah - Kemiskinan tinggi,1.217200000000001,0.8399999999999999,True
+Kota Bengkulu,Bengkulu,Sumatera,7.1854,17.65,Lansia rendah - Kemiskinan tinggi,8.9673,13.76,Lansia rendah - Kemiskinan tinggi,1.7819000000000003,-3.889999999999999,False
+Lampung Barat,Lampung,Sumatera,8.3925,12.52,Lansia rendah - Kemiskinan tinggi,9.7597,10.68,Lansia rendah - Kemiskinan tinggi,1.3672000000000004,-1.8399999999999999,False
+Tanggamus,Lampung,Sumatera,9.7983,11.68,Lansia rendah - Kemiskinan tinggi,11.0445,10.28,Lansia tinggi - Kemiskinan tinggi,1.2462,-1.4000000000000004,True
+Lampung Selatan,Lampung,Sumatera,8.7266,14.08,Lansia rendah - Kemiskinan tinggi,10.0993,12.57,Lansia tinggi - Kemiskinan tinggi,1.3727,-1.5099999999999998,True
+Lampung Timur,Lampung,Sumatera,10.9493,14.62,Lansia tinggi - Kemiskinan tinggi,12.1775,13.19,Lansia tinggi - Kemiskinan tinggi,1.228200000000001,-1.4299999999999997,False
+Lampung Tengah,Lampung,Sumatera,10.053,11.82,Lansia rendah - Kemiskinan tinggi,11.5543,10.37,Lansia tinggi - Kemiskinan tinggi,1.5012999999999987,-1.450000000000001,True
+Lampung Utara,Lampung,Sumatera,9.2719,19.3,Lansia rendah - Kemiskinan tinggi,11.1886,16.92,Lansia tinggi - Kemiskinan tinggi,1.9166999999999987,-2.379999999999999,True
+Way Kanan,Lampung,Sumatera,8.9918,12.9,Lansia rendah - Kemiskinan tinggi,10.3336,10.43,Lansia tinggi - Kemiskinan tinggi,1.341800000000001,-2.4700000000000006,True
+Tulangbawang,Lampung,Sumatera,7.904,9.33,Lansia rendah - Kemiskinan rendah,9.2296,7.88,Lansia rendah - Kemiskinan rendah,1.3255999999999997,-1.4500000000000002,False
+Pesawaran,Lampung,Sumatera,9.9064,14.76,Lansia rendah - Kemiskinan tinggi,11.059,11.86,Lansia tinggi - Kemiskinan tinggi,1.1525999999999996,-2.9000000000000004,True
+Pringsewu,Lampung,Sumatera,10.1461,9.97,Lansia tinggi - Kemiskinan tinggi,11.7048,8.32,Lansia tinggi - Kemiskinan rendah,1.5587,-1.6500000000000004,True
+Mesuji,Lampung,Sumatera,8.2235,7.33,Lansia rendah - Kemiskinan rendah,9.3088,6.31,Lansia rendah - Kemiskinan rendah,1.0853000000000002,-1.0200000000000005,False
+Tulang Bawang Barat,Lampung,Sumatera,9.9957,7.39,Lansia rendah - Kemiskinan rendah,11.492,7.22,Lansia tinggi - Kemiskinan rendah,1.4963000000000015,-0.16999999999999993,True
+Pesisir Barat,Lampung,Sumatera,8.5791,14.29,Lansia rendah - Kemiskinan tinggi,9.8325,12.64,Lansia rendah - Kemiskinan tinggi,1.2533999999999992,-1.6499999999999986,False
+Kota Bandar Lampung,Lampung,Sumatera,9.7934,8.81,Lansia rendah - Kemiskinan rendah,11.0704,7.37,Lansia tinggi - Kemiskinan rendah,1.2769999999999992,-1.4400000000000004,True
+Kota Metro,Lampung,Sumatera,9.951,8.47,Lansia rendah - Kemiskinan rendah,11.5405,6.78,Lansia tinggi - Kemiskinan rendah,1.5894999999999992,-1.6900000000000004,True
+Bangka,Kep. Bangka Belitung,Sumatera,8.8774,4.51,Lansia rendah - Kemiskinan rendah,10.2909,4.24,Lansia tinggi - Kemiskinan rendah,1.4135000000000009,-0.2699999999999996,True
+Belitung,Kep. Bangka Belitung,Sumatera,9.5085,6.27,Lansia rendah - Kemiskinan rendah,11.5937,6.11,Lansia tinggi - Kemiskinan rendah,2.0852000000000004,-0.15999999999999925,True
+Bangka Barat,Kep. Bangka Belitung,Sumatera,7.8304,2.7,Lansia rendah - Kemiskinan rendah,9.0873,2.59,Lansia rendah - Kemiskinan rendah,1.2569000000000008,-0.11000000000000032,False
+Bangka Tengah,Kep. Bangka Belitung,Sumatera,6.8813,4.85,Lansia rendah - Kemiskinan rendah,8.3404,5.94,Lansia rendah - Kemiskinan rendah,1.4591000000000003,1.0900000000000007,False
+Bangka Selatan,Kep. Bangka Belitung,Sumatera,6.6159,3.52,Lansia rendah - Kemiskinan rendah,8.2876,3.74,Lansia rendah - Kemiskinan rendah,1.6716999999999995,0.2200000000000002,False
+Belitung Timur,Kep. Bangka Belitung,Sumatera,9.8466,6.52,Lansia rendah - Kemiskinan rendah,11.2809,6.36,Lansia tinggi - Kemiskinan rendah,1.4343000000000004,-0.15999999999999925,True
+Kota Pangkal Pinang,Kep. Bangka Belitung,Sumatera,9.1211,4.36,Lansia rendah - Kemiskinan rendah,10.3901,4.04,Lansia tinggi - Kemiskinan rendah,1.2690000000000001,-0.3200000000000003,True
+Karimun,Kep. Riau,Sumatera,9.9855,6.83,Lansia rendah - Kemiskinan rendah,11.1626,5.78,Lansia tinggi - Kemiskinan rendah,1.1770999999999994,-1.0499999999999998,True
+Bintan,Kep. Riau,Sumatera,7.8211,6.36,Lansia rendah - Kemiskinan rendah,8.988,5.44,Lansia rendah - Kemiskinan rendah,1.1668999999999992,-0.9199999999999999,False
+Natuna,Kep. Riau,Sumatera,8.4864,4.43,Lansia rendah - Kemiskinan rendah,9.3388,5.04,Lansia rendah - Kemiskinan rendah,0.8524000000000012,0.6100000000000003,False
+Lingga,Kep. Riau,Sumatera,11.8216,13.85,Lansia tinggi - Kemiskinan tinggi,12.5218,9.99,Lansia tinggi - Kemiskinan tinggi,0.7002000000000006,-3.8599999999999994,False
+Kepulauan Anambas,Kep. Riau,Sumatera,8.4026,6.56,Lansia rendah - Kemiskinan rendah,9.3448,6.67,Lansia rendah - Kemiskinan rendah,0.9421999999999997,0.11000000000000032,False
+Kota Batam,Kep. Riau,Sumatera,3.6666,4.75,Lansia rendah - Kemiskinan rendah,5.5517,4.85,Lansia rendah - Kemiskinan rendah,1.8851000000000004,0.09999999999999964,False
+Kota Tanjung Pinang,Kep. Riau,Sumatera,9.2553,9.37,Lansia rendah - Kemiskinan rendah,10.7071,6.86,Lansia tinggi - Kemiskinan rendah,1.4518000000000004,-2.509999999999999,True
+Kep. Seribu,DKI Jakarta,Jawa,6.4759,14.87,Lansia rendah - Kemiskinan tinggi,8.1502,13.03,Lansia rendah - Kemiskinan tinggi,1.6742999999999997,-1.8399999999999999,False
+Kota Jakarta Selatan,DKI Jakarta,Jawa,9.2707,3.43,Lansia rendah - Kemiskinan rendah,11.7757,3.03,Lansia tinggi - Kemiskinan rendah,2.505000000000001,-0.40000000000000036,True
+Kota Jakarta Timur,DKI Jakarta,Jawa,8.7124,4.16,Lansia rendah - Kemiskinan rendah,11.0108,4.09,Lansia tinggi - Kemiskinan rendah,2.298399999999999,-0.07000000000000028,True
+Kota Jakarta Pusat,DKI Jakarta,Jawa,10.5754,4.51,Lansia tinggi - Kemiskinan rendah,13.3122,4.63,Lansia tinggi - Kemiskinan rendah,2.7368000000000006,0.1200000000000001,False
+Kota Jakarta Barat,DKI Jakarta,Jawa,8.8984,4.25,Lansia rendah - Kemiskinan rendah,11.0537,3.94,Lansia tinggi - Kemiskinan rendah,2.1552999999999987,-0.31000000000000005,True
+Kota Jakarta Utara,DKI Jakarta,Jawa,8.5965,6.78,Lansia rendah - Kemiskinan rendah,10.5935,6.44,Lansia tinggi - Kemiskinan rendah,1.9969999999999999,-0.33999999999999986,True
+Bogor,Jawa Barat,Jawa,6.9612,7.69,Lansia rendah - Kemiskinan rendah,8.6618,7.05,Lansia rendah - Kemiskinan rendah,1.7005999999999997,-0.6400000000000006,False
+Sukabumi,Jawa Barat,Jawa,9.8327,7.09,Lansia rendah - Kemiskinan rendah,11.5749,6.87,Lansia tinggi - Kemiskinan rendah,1.7421999999999986,-0.21999999999999975,True
+Cianjur,Jawa Barat,Jawa,9.3689,10.36,Lansia rendah - Kemiskinan tinggi,11.0837,10.14,Lansia tinggi - Kemiskinan tinggi,1.7148000000000003,-0.21999999999999886,True
+Bandung,Jawa Barat,Jawa,8.1193,6.91,Lansia rendah - Kemiskinan rendah,9.8879,6.19,Lansia rendah - Kemiskinan rendah,1.7685999999999993,-0.7199999999999998,False
+Garut,Jawa Barat,Jawa,8.3094,9.98,Lansia rendah - Kemiskinan tinggi,9.7745,9.68,Lansia rendah - Kemiskinan tinggi,1.4650999999999996,-0.3000000000000007,False
+Tasikmalaya,Jawa Barat,Jawa,12.1539,10.34,Lansia tinggi - Kemiskinan tinggi,14.0361,10.23,Lansia tinggi - Kemiskinan tinggi,1.8821999999999992,-0.10999999999999943,False
+Ciamis,Jawa Barat,Jawa,15.5829,7.62,Lansia tinggi - Kemiskinan rendah,17.2806,7.39,Lansia tinggi - Kemiskinan rendah,1.6976999999999993,-0.23000000000000043,False
+Kuningan,Jawa Barat,Jawa,12.1842,12.82,Lansia tinggi - Kemiskinan tinggi,13.642,11.88,Lansia tinggi - Kemiskinan tinggi,1.4577999999999989,-0.9399999999999995,False
+Cirebon,Jawa Barat,Jawa,8.4347,11.24,Lansia rendah - Kemiskinan tinggi,10.0196,11.0,Lansia rendah - Kemiskinan tinggi,1.584900000000001,-0.2400000000000002,False
+Majalengka,Jawa Barat,Jawa,12.1299,11.43,Lansia tinggi - Kemiskinan tinggi,13.674,10.82,Lansia tinggi - Kemiskinan tinggi,1.5441000000000003,-0.6099999999999994,False
+Sumedang,Jawa Barat,Jawa,13.5053,10.26,Lansia tinggi - Kemiskinan tinggi,15.2571,9.1,Lansia tinggi - Kemiskinan rendah,1.7517999999999994,-1.1600000000000001,True
+Indramayu,Jawa Barat,Jawa,9.4637,12.7,Lansia rendah - Kemiskinan tinggi,11.3066,11.93,Lansia tinggi - Kemiskinan tinggi,1.8429000000000002,-0.7699999999999996,True
+Subang,Jawa Barat,Jawa,11.5315,9.31,Lansia tinggi - Kemiskinan rendah,13.8787,9.49,Lansia tinggi - Kemiskinan tinggi,2.347200000000001,0.17999999999999972,True
+Purwakarta,Jawa Barat,Jawa,8.6883,8.27,Lansia rendah - Kemiskinan rendah,10.1119,8.41,Lansia tinggi - Kemiskinan rendah,1.4236000000000004,0.14000000000000057,True
+Karawang,Jawa Barat,Jawa,8.3432,8.26,Lansia rendah - Kemiskinan rendah,10.0667,7.86,Lansia rendah - Kemiskinan rendah,1.7235000000000014,-0.39999999999999947,False
+Bekasi,Jawa Barat,Jawa,5.8705,4.82,Lansia rendah - Kemiskinan rendah,7.5153,4.8,Lansia rendah - Kemiskinan rendah,1.6448,-0.020000000000000462,False
+Bandung Barat,Jawa Barat,Jawa,9.2793,10.49,Lansia rendah - Kemiskinan tinggi,10.8178,10.49,Lansia tinggi - Kemiskinan tinggi,1.5385000000000009,0.0,True
+Pangandaran,Jawa Barat,Jawa,14.868,8.99,Lansia tinggi - Kemiskinan rendah,16.9372,8.75,Lansia tinggi - Kemiskinan rendah,2.0692000000000004,-0.2400000000000002,False
+Kota Bogor,Jawa Barat,Jawa,9.2593,6.68,Lansia rendah - Kemiskinan rendah,11.136,6.53,Lansia tinggi - Kemiskinan rendah,1.8766999999999996,-0.14999999999999947,True
+Kota Sukabumi,Jawa Barat,Jawa,9.9112,7.7,Lansia rendah - Kemiskinan rendah,11.4908,7.2,Lansia tinggi - Kemiskinan rendah,1.579600000000001,-0.5,True
+Kota Bandung,Jawa Barat,Jawa,10.7514,3.99,Lansia tinggi - Kemiskinan rendah,12.5742,3.87,Lansia tinggi - Kemiskinan rendah,1.822799999999999,-0.1200000000000001,False
+Kota Cirebon,Jawa Barat,Jawa,9.9894,9.52,Lansia rendah - Kemiskinan tinggi,11.7781,9.02,Lansia tinggi - Kemiskinan rendah,1.7887000000000004,-0.5,True
+Kota Bekasi,Jawa Barat,Jawa,8.2229,4.38,Lansia rendah - Kemiskinan rendah,10.6236,4.01,Lansia tinggi - Kemiskinan rendah,2.4007000000000005,-0.3700000000000001,True
+Kota Depok,Jawa Barat,Jawa,7.9862,2.45,Lansia rendah - Kemiskinan rendah,9.9928,2.34,Lansia rendah - Kemiskinan rendah,2.0066000000000006,-0.11000000000000032,False
+Kota Cimahi,Jawa Barat,Jawa,9.1295,5.11,Lansia rendah - Kemiskinan rendah,11.0076,4.39,Lansia tinggi - Kemiskinan rendah,1.8780999999999999,-0.7200000000000006,True
+Kota Tasikmalaya,Jawa Barat,Jawa,10.2268,12.97,Lansia tinggi - Kemiskinan tinggi,11.7939,11.1,Lansia tinggi - Kemiskinan tinggi,1.5671,-1.870000000000001,False
+Kota Banjar,Jawa Barat,Jawa,12.6335,6.09,Lansia tinggi - Kemiskinan rendah,14.4115,5.85,Lansia tinggi - Kemiskinan rendah,1.7780000000000005,-0.2400000000000002,False
+Cilacap,Jawa Tengah,Jawa,12.2142,11.46,Lansia tinggi - Kemiskinan tinggi,14.1739,10.68,Lansia tinggi - Kemiskinan tinggi,1.9596999999999998,-0.7800000000000011,False
+Banyumas,Jawa Tengah,Jawa,13.178,13.26,Lansia tinggi - Kemiskinan tinggi,14.5967,11.95,Lansia tinggi - Kemiskinan tinggi,1.4186999999999994,-1.3100000000000005,False
+Purbalingga,Jawa Tengah,Jawa,12.4969,15.9,Lansia tinggi - Kemiskinan tinggi,13.6183,14.18,Lansia tinggi - Kemiskinan tinggi,1.1213999999999995,-1.7200000000000006,False
+Banjarnegara,Jawa Tengah,Jawa,12.9216,15.64,Lansia tinggi - Kemiskinan tinggi,14.2148,14.71,Lansia tinggi - Kemiskinan tinggi,1.2932000000000006,-0.9299999999999997,False
+Kebumen,Jawa Tengah,Jawa,13.2684,17.59,Lansia tinggi - Kemiskinan tinggi,14.6964,15.71,Lansia tinggi - Kemiskinan tinggi,1.4280000000000008,-1.879999999999999,False
+Purworejo,Jawa Tengah,Jawa,15.6683,11.78,Lansia tinggi - Kemiskinan tinggi,17.4394,10.87,Lansia tinggi - Kemiskinan tinggi,1.7710999999999988,-0.9100000000000001,False
+Wonosobo,Jawa Tengah,Jawa,11.9171,17.36,Lansia tinggi - Kemiskinan tinggi,13.4047,15.28,Lansia tinggi - Kemiskinan tinggi,1.4876000000000005,-2.08,False
+Magelang,Jawa Tengah,Jawa,13.2647,11.27,Lansia tinggi - Kemiskinan tinggi,14.9243,10.83,Lansia tinggi - Kemiskinan tinggi,1.659600000000001,-0.4399999999999995,False
+Boyolali,Jawa Tengah,Jawa,13.7153,10.18,Lansia tinggi - Kemiskinan tinggi,15.1296,9.63,Lansia tinggi - Kemiskinan tinggi,1.4143000000000008,-0.5499999999999989,False
+Klaten,Jawa Tengah,Jawa,14.5012,12.89,Lansia tinggi - Kemiskinan tinggi,16.2459,12.04,Lansia tinggi - Kemiskinan tinggi,1.7446999999999981,-0.8500000000000014,False
+Sukoharjo,Jawa Tengah,Jawa,12.7135,7.68,Lansia tinggi - Kemiskinan rendah,14.5803,7.47,Lansia tinggi - Kemiskinan rendah,1.8667999999999996,-0.20999999999999996,False
+Wonogiri,Jawa Tengah,Jawa,19.2783,10.86,Lansia tinggi - Kemiskinan tinggi,20.7554,10.71,Lansia tinggi - Kemiskinan tinggi,1.4771,-0.14999999999999858,False
+Karanganyar,Jawa Tengah,Jawa,13.4187,10.28,Lansia tinggi - Kemiskinan tinggi,15.2978,9.59,Lansia tinggi - Kemiskinan tinggi,1.879100000000001,-0.6899999999999995,False
+Sragen,Jawa Tengah,Jawa,14.6383,13.38,Lansia tinggi - Kemiskinan tinggi,16.0537,12.41,Lansia tinggi - Kemiskinan tinggi,1.4154,-0.9700000000000006,False
+Grobogan,Jawa Tengah,Jawa,12.1595,12.46,Lansia tinggi - Kemiskinan tinggi,14.1126,11.43,Lansia tinggi - Kemiskinan tinggi,1.953100000000001,-1.0300000000000011,False
+Blora,Jawa Tengah,Jawa,14.1666,11.96,Lansia tinggi - Kemiskinan tinggi,16.2578,11.42,Lansia tinggi - Kemiskinan tinggi,2.091199999999999,-0.5400000000000009,False
+Rembang,Jawa Tengah,Jawa,12.6564,15.6,Lansia tinggi - Kemiskinan tinggi,14.6043,14.02,Lansia tinggi - Kemiskinan tinggi,1.9479000000000006,-1.58,False
+Pati,Jawa Tengah,Jawa,12.9229,10.08,Lansia tinggi - Kemiskinan tinggi,15.0694,9.17,Lansia tinggi - Kemiskinan rendah,2.1464999999999996,-0.9100000000000001,True
+Kudus,Jawa Tengah,Jawa,9.6907,7.31,Lansia rendah - Kemiskinan rendah,11.8625,7.23,Lansia tinggi - Kemiskinan rendah,2.171800000000001,-0.07999999999999918,True
+Jepara,Jawa Tengah,Jawa,10.2492,7.17,Lansia tinggi - Kemiskinan rendah,12.0117,6.09,Lansia tinggi - Kemiskinan rendah,1.7624999999999993,-1.08,False
+Demak,Jawa Tengah,Jawa,9.6805,12.54,Lansia rendah - Kemiskinan tinggi,11.4515,11.89,Lansia tinggi - Kemiskinan tinggi,1.770999999999999,-0.6499999999999986,True
+Semarang,Jawa Tengah,Jawa,11.9869,7.51,Lansia tinggi - Kemiskinan rendah,13.7644,6.96,Lansia tinggi - Kemiskinan rendah,1.7774999999999999,-0.5499999999999998,False
+Temanggung,Jawa Tengah,Jawa,13.4182,9.96,Lansia tinggi - Kemiskinan tinggi,15.3575,8.67,Lansia tinggi - Kemiskinan rendah,1.9392999999999994,-1.290000000000001,True
+Kendal,Jawa Tengah,Jawa,10.9159,9.99,Lansia tinggi - Kemiskinan tinggi,12.9783,9.35,Lansia tinggi - Kemiskinan rendah,2.0624000000000002,-0.6400000000000006,True
+Batang,Jawa Tengah,Jawa,10.4282,9.13,Lansia tinggi - Kemiskinan rendah,12.4311,8.73,Lansia tinggi - Kemiskinan rendah,2.0029000000000003,-0.40000000000000036,False
+Pekalongan,Jawa Tengah,Jawa,9.8863,10.19,Lansia rendah - Kemiskinan tinggi,11.8471,8.95,Lansia tinggi - Kemiskinan rendah,1.960799999999999,-1.2400000000000002,True
+Pemalang,Jawa Tengah,Jawa,10.4457,16.02,Lansia tinggi - Kemiskinan tinggi,11.9927,14.92,Lansia tinggi - Kemiskinan tinggi,1.5469999999999988,-1.0999999999999996,False
+Tegal,Jawa Tengah,Jawa,9.3151,8.14,Lansia rendah - Kemiskinan rendah,10.8864,6.81,Lansia tinggi - Kemiskinan rendah,1.5713000000000008,-1.330000000000001,True
+Brebes,Jawa Tengah,Jawa,10.1463,17.03,Lansia tinggi - Kemiskinan tinggi,11.4809,15.6,Lansia tinggi - Kemiskinan tinggi,1.3346,-1.4300000000000015,False
+Kota Magelang,Jawa Tengah,Jawa,14.3023,7.58,Lansia tinggi - Kemiskinan rendah,16.8601,5.94,Lansia tinggi - Kemiskinan rendah,2.5577999999999985,-1.6399999999999997,False
+Kota Surakarta,Jawa Tengah,Jawa,13.1552,9.03,Lansia tinggi - Kemiskinan rendah,15.3601,8.31,Lansia tinggi - Kemiskinan rendah,2.2048999999999985,-0.7199999999999989,False
+Kota Salatiga,Jawa Tengah,Jawa,12.3278,4.94,Lansia tinggi - Kemiskinan rendah,13.9435,4.57,Lansia tinggi - Kemiskinan rendah,1.6157000000000004,-0.3700000000000001,False
+Kota Semarang,Jawa Tengah,Jawa,10.727,4.34,Lansia tinggi - Kemiskinan rendah,12.9353,4.03,Lansia tinggi - Kemiskinan rendah,2.2082999999999995,-0.3099999999999996,False
+Kota Pekalongan,Jawa Tengah,Jawa,9.3596,7.17,Lansia rendah - Kemiskinan rendah,11.3761,6.71,Lansia tinggi - Kemiskinan rendah,2.016499999999999,-0.45999999999999996,True
+Kota Tegal,Jawa Tengah,Jawa,9.9407,7.8,Lansia rendah - Kemiskinan rendah,11.5497,7.64,Lansia tinggi - Kemiskinan rendah,1.609,-0.16000000000000014,True
+Kulon Progo,DI Yogyakarta,Jawa,17.9651,18.01,Lansia tinggi - Kemiskinan tinggi,19.201,15.62,Lansia tinggi - Kemiskinan tinggi,1.2359000000000009,-2.3900000000000023,False
+Bantul,DI Yogyakarta,Jawa,14.5258,13.5,Lansia tinggi - Kemiskinan tinggi,16.2437,11.66,Lansia tinggi - Kemiskinan tinggi,1.7179000000000002,-1.8399999999999999,False
+Gunung Kidul,DI Yogyakarta,Jawa,20.3805,17.07,Lansia tinggi - Kemiskinan tinggi,21.1693,15.18,Lansia tinggi - Kemiskinan tinggi,0.7887999999999984,-1.8900000000000006,False
+Sleman,DI Yogyakarta,Jawa,13.9466,8.12,Lansia tinggi - Kemiskinan rendah,15.4283,7.46,Lansia tinggi - Kemiskinan rendah,1.4817,-0.6599999999999993,False
+Kota Yogyakarta,DI Yogyakarta,Jawa,14.4049,7.27,Lansia tinggi - Kemiskinan rendah,16.7654,6.26,Lansia tinggi - Kemiskinan rendah,2.3605,-1.0099999999999998,False
+Pacitan,Jawa Timur,Jawa,18.9604,14.54,Lansia tinggi - Kemiskinan tinggi,20.5782,13.08,Lansia tinggi - Kemiskinan tinggi,1.617799999999999,-1.459999999999999,False
+Ponorogo,Jawa Timur,Jawa,17.8889,9.95,Lansia tinggi - Kemiskinan tinggi,19.3777,9.11,Lansia tinggi - Kemiskinan rendah,1.4888000000000012,-0.8399999999999999,True
+Trenggalek,Jawa Timur,Jawa,16.3151,11.62,Lansia tinggi - Kemiskinan tinggi,18.1758,10.5,Lansia tinggi - Kemiskinan tinggi,1.8606999999999978,-1.1199999999999992,False
+Tulungagung,Jawa Timur,Jawa,14.5095,7.33,Lansia tinggi - Kemiskinan rendah,16.3223,6.28,Lansia tinggi - Kemiskinan rendah,1.8127999999999993,-1.0499999999999998,False
+Blitar,Jawa Timur,Jawa,14.4435,9.33,Lansia tinggi - Kemiskinan rendah,16.3164,8.16,Lansia tinggi - Kemiskinan rendah,1.8729000000000013,-1.17,False
+Kediri,Jawa Timur,Jawa,12.8178,11.4,Lansia tinggi - Kemiskinan tinggi,15.0249,9.95,Lansia tinggi - Kemiskinan tinggi,2.2071000000000005,-1.450000000000001,False
+Malang,Jawa Timur,Jawa,12.8204,10.15,Lansia tinggi - Kemiskinan tinggi,14.7958,8.98,Lansia tinggi - Kemiskinan rendah,1.9754000000000005,-1.17,True
+Lumajang,Jawa Timur,Jawa,14.4172,9.83,Lansia tinggi - Kemiskinan tinggi,16.2347,8.65,Lansia tinggi - Kemiskinan rendah,1.8175000000000008,-1.1799999999999997,True
+Jember,Jawa Timur,Jawa,13.4059,10.09,Lansia tinggi - Kemiskinan tinggi,14.9583,9.01,Lansia tinggi - Kemiskinan rendah,1.5523999999999987,-1.08,True
+Banyuwangi,Jawa Timur,Jawa,13.9679,8.06,Lansia tinggi - Kemiskinan rendah,15.8645,6.54,Lansia tinggi - Kemiskinan rendah,1.8965999999999994,-1.5200000000000005,False
+Bondowoso,Jawa Timur,Jawa,15.5542,14.17,Lansia tinggi - Kemiskinan tinggi,16.7219,12.6,Lansia tinggi - Kemiskinan tinggi,1.1677000000000017,-1.5700000000000003,False
+Situbondo,Jawa Timur,Jawa,15.3321,12.22,Lansia tinggi - Kemiskinan tinggi,16.8768,11.51,Lansia tinggi - Kemiskinan tinggi,1.5446999999999989,-0.7100000000000009,False
+Probolinggo,Jawa Timur,Jawa,12.5877,18.61,Lansia tinggi - Kemiskinan tinggi,14.2485,16.45,Lansia tinggi - Kemiskinan tinggi,1.6608,-2.16,False
+Pasuruan,Jawa Timur,Jawa,10.7244,9.26,Lansia tinggi - Kemiskinan rendah,12.8294,8.63,Lansia tinggi - Kemiskinan rendah,2.1050000000000004,-0.629999999999999,False
+Sidoarjo,Jawa Timur,Jawa,9.4526,5.59,Lansia rendah - Kemiskinan rendah,11.7102,4.53,Lansia tinggi - Kemiskinan rendah,2.2576,-1.0599999999999996,True
+Mojokerto,Jawa Timur,Jawa,11.2159,10.57,Lansia tinggi - Kemiskinan tinggi,13.4406,9.37,Lansia tinggi - Kemiskinan rendah,2.2247000000000003,-1.200000000000001,True
+Jombang,Jawa Timur,Jawa,11.8273,9.94,Lansia tinggi - Kemiskinan tinggi,13.7235,8.6,Lansia tinggi - Kemiskinan rendah,1.8962000000000003,-1.3399999999999999,True
+Nganjuk,Jawa Timur,Jawa,13.7856,11.62,Lansia tinggi - Kemiskinan tinggi,15.6227,10.17,Lansia tinggi - Kemiskinan tinggi,1.8370999999999995,-1.4499999999999993,False
+Madiun,Jawa Timur,Jawa,17.0018,11.46,Lansia tinggi - Kemiskinan tinggi,18.7837,10.63,Lansia tinggi - Kemiskinan tinggi,1.7819000000000003,-0.8300000000000001,False
+Magetan,Jawa Timur,Jawa,18.5168,10.35,Lansia tinggi - Kemiskinan tinggi,19.7015,9.32,Lansia tinggi - Kemiskinan rendah,1.1846999999999994,-1.0299999999999994,True
+Ngawi,Jawa Timur,Jawa,16.6936,15.44,Lansia tinggi - Kemiskinan tinggi,18.7546,13.81,Lansia tinggi - Kemiskinan tinggi,2.061,-1.629999999999999,False
+Bojonegoro,Jawa Timur,Jawa,13.8716,12.87,Lansia tinggi - Kemiskinan tinggi,16.2303,11.69,Lansia tinggi - Kemiskinan tinggi,2.358699999999999,-1.1799999999999997,False
+Tuban,Jawa Timur,Jawa,13.5594,15.91,Lansia tinggi - Kemiskinan tinggi,15.7365,14.36,Lansia tinggi - Kemiskinan tinggi,2.1770999999999994,-1.5500000000000007,False
+Lamongan,Jawa Timur,Jawa,14.3584,13.85,Lansia tinggi - Kemiskinan tinggi,16.4105,12.16,Lansia tinggi - Kemiskinan tinggi,2.0520999999999994,-1.6899999999999995,False
+Gresik,Jawa Timur,Jawa,10.0838,12.4,Lansia tinggi - Kemiskinan tinggi,12.0361,10.32,Lansia tinggi - Kemiskinan tinggi,1.9522999999999993,-2.08,False
+Bangkalan,Jawa Timur,Jawa,10.5023,20.56,Lansia tinggi - Kemiskinan tinggi,11.8779,18.66,Lansia tinggi - Kemiskinan tinggi,1.3756000000000004,-1.8999999999999986,False
+Sampang,Jawa Timur,Jawa,9.8401,22.78,Lansia rendah - Kemiskinan tinggi,10.954,20.83,Lansia tinggi - Kemiskinan tinggi,1.113900000000001,-1.9500000000000028,True
+Pamekasan,Jawa Timur,Jawa,10.8741,14.6,Lansia tinggi - Kemiskinan tinggi,12.3506,13.41,Lansia tinggi - Kemiskinan tinggi,1.4764999999999997,-1.1899999999999995,False
+Sumenep,Jawa Timur,Jawa,15.1184,20.18,Lansia tinggi - Kemiskinan tinggi,16.7768,17.78,Lansia tinggi - Kemiskinan tinggi,1.658400000000002,-2.3999999999999986,False
+Kota Kediri,Jawa Timur,Jawa,11.732,7.69,Lansia tinggi - Kemiskinan rendah,13.6731,6.51,Lansia tinggi - Kemiskinan rendah,1.9411000000000005,-1.1800000000000006,False
+Kota Blitar,Jawa Timur,Jawa,12.3735,7.78,Lansia tinggi - Kemiskinan rendah,14.0772,6.75,Lansia tinggi - Kemiskinan rendah,1.7036999999999995,-1.0300000000000002,False
+Kota Malang,Jawa Timur,Jawa,12.0775,4.44,Lansia tinggi - Kemiskinan rendah,13.9693,3.91,Lansia tinggi - Kemiskinan rendah,1.8918,-0.5300000000000002,False
+Kota Probolinggo,Jawa Timur,Jawa,10.5058,7.43,Lansia tinggi - Kemiskinan rendah,12.2045,6.18,Lansia tinggi - Kemiskinan rendah,1.6986999999999988,-1.25,False
+Kota Pasuruan,Jawa Timur,Jawa,9.6228,6.66,Lansia rendah - Kemiskinan rendah,11.5332,6.32,Lansia tinggi - Kemiskinan rendah,1.910400000000001,-0.33999999999999986,True
+Kota Mojokerto,Jawa Timur,Jawa,11.34,6.24,Lansia tinggi - Kemiskinan rendah,13.3078,5.57,Lansia tinggi - Kemiskinan rendah,1.9678000000000004,-0.6699999999999999,False
+Kota Madiun,Jawa Timur,Jawa,15.1049,4.98,Lansia tinggi - Kemiskinan rendah,16.5572,4.38,Lansia tinggi - Kemiskinan rendah,1.452300000000001,-0.6000000000000005,False
+Kota Surabaya,Jawa Timur,Jawa,10.921,5.02,Lansia tinggi - Kemiskinan rendah,12.9582,3.96,Lansia tinggi - Kemiskinan rendah,2.0372000000000003,-1.0599999999999996,False
+Kota Batu,Jawa Timur,Jawa,11.6918,3.89,Lansia tinggi - Kemiskinan rendah,13.6116,3.06,Lansia tinggi - Kemiskinan rendah,1.9197999999999986,-0.8300000000000001,False
+Pandeglang,Banten,Jawa,8.152,9.92,Lansia rendah - Kemiskinan tinggi,9.8974,9.18,Lansia rendah - Kemiskinan rendah,1.7454,-0.7400000000000002,True
+Lebak,Banten,Jawa,7.8485,9.24,Lansia rendah - Kemiskinan rendah,9.3691,8.44,Lansia rendah - Kemiskinan rendah,1.5206,-0.8000000000000007,False
+Tangerang,Banten,Jawa,5.9185,6.23,Lansia rendah - Kemiskinan rendah,7.647,6.55,Lansia rendah - Kemiskinan rendah,1.7285000000000004,0.3199999999999994,False
+Serang,Banten,Jawa,7.2667,4.94,Lansia rendah - Kemiskinan rendah,8.7822,4.51,Lansia rendah - Kemiskinan rendah,1.5154999999999994,-0.4300000000000006,False
+Kota Tangerang,Banten,Jawa,7.5554,5.22,Lansia rendah - Kemiskinan rendah,9.7142,5.43,Lansia rendah - Kemiskinan rendah,2.1588000000000003,0.20999999999999996,False
+Kota Cilegon,Banten,Jawa,6.6393,3.69,Lansia rendah - Kemiskinan rendah,8.6096,3.75,Lansia rendah - Kemiskinan rendah,1.9703,0.06000000000000005,False
+Kota Serang,Banten,Jawa,5.8708,6.06,Lansia rendah - Kemiskinan rendah,7.4791,5.65,Lansia rendah - Kemiskinan rendah,1.6082999999999998,-0.40999999999999925,False
+Kota Tangerang Selatan,Banten,Jawa,8.5327,2.29,Lansia rendah - Kemiskinan rendah,11.0195,2.36,Lansia tinggi - Kemiskinan rendah,2.4868000000000006,0.06999999999999984,True

@@ -1,0 +1,51 @@
+Tahun,Pulau,Provinsi,Kab_kota,pct_lansia,jumlah_lansia,p0_miskin,rls,pengeluaran,ahh_rata2
+2020,Jawa,DI Yogyakarta,Gunung Kidul,20.3805,152275,17.07,7.21,9486,74.07
+2020,Jawa,Jawa Tengah,Wonogiri,19.2783,201107,10.86,7.33,9286,76.18
+2020,Jawa,Jawa Timur,Pacitan,18.9604,111129,14.54,7.6,8796,71.89
+2020,Jawa,Jawa Timur,Magetan,18.5168,124213,10.35,8.24,11776,72.54
+2020,Jawa,DI Yogyakarta,Kulon Progo,17.9651,78399,18.01,8.86,10041,75.26
+2020,Jawa,Jawa Timur,Ponorogo,17.8889,169823,9.95,7.54,9670,72.71
+2020,Jawa,Jawa Timur,Madiun,17.0018,126553,11.46,7.81,11574,71.32
+2020,Jawa,Jawa Timur,Ngawi,16.6936,145244,15.44,7.06,11418,72.24
+2020,Jawa,Jawa Timur,Trenggalek,16.3151,119284,11.62,7.55,9630,73.68
+2020,Jawa,Jawa Tengah,Purworejo,15.6683,120627,11.78,8.12,10163,74.68
+2021,Jawa,DI Yogyakarta,Gunung Kidul,20.5497,153767,17.69,7.3,9505,74.14
+2021,Jawa,Jawa Tengah,Wonogiri,19.58,204532,11.55,7.34,9429,76.28
+2021,Jawa,Jawa Timur,Pacitan,19.2929,113146,15.11,7.61,8887,72.03
+2021,Jawa,Jawa Timur,Magetan,18.8036,126655,10.66,8.36,11833,72.6
+2021,Jawa,DI Yogyakarta,Kulon Progo,18.2428,79939,18.38,9.02,10069,75.28
+2021,Jawa,Jawa Timur,Ponorogo,18.2135,173349,10.26,7.55,9851,72.8
+2021,Jawa,Jawa Timur,Madiun,17.4097,130074,11.91,7.82,11658,71.46
+2021,Jawa,Jawa Timur,Ngawi,17.1991,150174,15.57,7.26,11459,72.35
+2021,Jawa,Jawa Timur,Trenggalek,16.7277,122761,12.14,7.56,9743,73.8
+2021,Jawa,Jawa Tengah,Purworejo,16.0444,124259,12.4,8.21,10275,74.84
+2022,Jawa,DI Yogyakarta,Gunung Kidul,20.7364,155462,15.86,7.31,9874,74.18
+2022,Jawa,Jawa Tengah,Wonogiri,19.9723,209292,10.99,7.42,9780,76.4
+2022,Jawa,Jawa Timur,Pacitan,19.7012,115699,13.8,7.82,9184,72.42
+2022,Jawa,Jawa Timur,Magetan,19.1134,129528,9.84,8.66,12031,72.9
+2022,Jawa,Jawa Timur,Ponorogo,18.5957,177729,9.32,7.77,10199,73.12
+2022,Jawa,DI Yogyakarta,Kulon Progo,18.545,81725,16.39,9.17,10511,75.3
+2022,Jawa,Jawa Timur,Madiun,17.8624,134134,10.79,7.94,11848,71.84
+2022,Jawa,Jawa Timur,Ngawi,17.7248,155459,14.15,7.59,11563,72.74
+2022,Jawa,Jawa Timur,Trenggalek,17.1968,126851,10.96,7.89,10042,74.18
+2022,Jawa,Jawa Tengah,Purworejo,16.5064,128983,11.53,8.32,10671,75.02
+2023,Jawa,DI Yogyakarta,Gunung Kidul,20.9398,157260,15.6,7.32,10065,74.34
+2023,Jawa,Jawa Tengah,Wonogiri,20.3603,214004,10.94,7.67,10283,76.6
+2023,Jawa,Jawa Timur,Pacitan,20.1288,118352,13.65,7.88,9681,72.91
+2023,Jawa,Jawa Timur,Magetan,19.4093,132305,9.8,8.67,12495,73.34
+2023,Jawa,Jawa Timur,Ponorogo,18.9838,182147,9.53,7.78,10658,73.6
+2023,Jawa,DI Yogyakarta,Kulon Progo,18.8664,83588,15.64,9.18,10723,75.39
+2023,Jawa,Jawa Timur,Madiun,18.3188,138215,11.04,7.95,12259,72.32
+2023,Jawa,Jawa Timur,Ngawi,18.2406,160647,14.4,7.78,11897,73.26
+2023,Jawa,Jawa Timur,Trenggalek,17.6789,131032,10.63,7.9,10465,74.74
+2023,Jawa,Jawa Tengah,Purworejo,16.9718,133783,11.33,8.46,11110,75.29
+2024,Jawa,DI Yogyakarta,Gunung Kidul,21.1693,159233,15.18,7.35,10630,74.68
+2024,Jawa,Jawa Tengah,Wonogiri,20.7554,218792,10.71,7.68,10634,76.9
+2024,Jawa,Jawa Timur,Pacitan,20.5782,121117,13.08,7.9,10099,73.09
+2024,Jawa,Jawa Timur,Magetan,19.7015,135054,9.32,8.69,12915,73.54
+2024,Jawa,Jawa Timur,Ponorogo,19.3777,186596,9.11,7.8,11065,73.82
+2024,Jawa,DI Yogyakarta,Kulon Progo,19.201,85505,15.62,9.2,10990,75.72
+2024,Jawa,Jawa Timur,Madiun,18.7837,142350,10.63,8.2,12668,72.52
+2024,Jawa,Jawa Timur,Ngawi,18.7546,165807,13.81,7.84,12414,73.44
+2024,Jawa,Jawa Timur,Trenggalek,18.1758,135322,10.5,7.92,10872,74.88
+2024,Jawa,Jawa Tengah,Purworejo,17.4394,138649,10.87,8.65,11584,75.76
