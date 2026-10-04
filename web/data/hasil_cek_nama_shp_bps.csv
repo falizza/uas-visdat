@@ -1,0 +1,274 @@
+﻿Provinsi,Kab_kota,nmprov,nmkab,kodekab,_merge
+Aceh,Aceh Barat,ACEH,ACEH BARAT,1107,both
+Aceh,Aceh Barat Daya,ACEH,ACEH BARAT DAYA,1112,both
+Aceh,Aceh Besar,ACEH,ACEH BESAR,1108,both
+Aceh,Aceh Jaya,ACEH,ACEH JAYA,1116,both
+Aceh,Aceh Selatan,ACEH,ACEH SELATAN,1103,both
+Aceh,Aceh Singkil,ACEH,ACEH SINGKIL,1102,both
+Aceh,Aceh Tamiang,ACEH,ACEH TAMIANG,1114,both
+Aceh,Aceh Tengah,ACEH,ACEH TENGAH,1106,both
+Aceh,Aceh Tenggara,ACEH,ACEH TENGGARA,1104,both
+Aceh,Aceh Timur,ACEH,ACEH TIMUR,1105,both
+Aceh,Aceh Utara,ACEH,ACEH UTARA,1111,both
+Aceh,Bener Meriah,ACEH,BENER MERIAH,1117,both
+Aceh,Bireuen,ACEH,BIREUEN,1110,both
+Aceh,Gayo Lues,ACEH,GAYO LUES,1113,both
+Aceh,Kota Banda Aceh,ACEH,BANDA ACEH,1171,both
+Aceh,Kota Langsa,ACEH,LANGSA,1173,both
+Aceh,Kota Lhokseumawe,ACEH,LHOKSEUMAWE,1174,both
+Aceh,Kota Sabang,ACEH,SABANG,1172,both
+Aceh,Kota Subulussalam,ACEH,SUBULUSSALAM,1175,both
+Aceh,Nagan Raya,ACEH,NAGAN RAYA,1115,both
+Aceh,Pidie,ACEH,PIDIE,1109,both
+Aceh,Pidie Jaya,ACEH,PIDIE JAYA,1118,both
+Aceh,Simeulue,ACEH,SIMEULUE,1101,both
+Banten,Kota Cilegon,BANTEN,CILEGON,3672,both
+Banten,Kota Serang,BANTEN,SERANG,3673,both
+Banten,Kota Tangerang,BANTEN,TANGERANG,3671,both
+Banten,Kota Tangerang Selatan,BANTEN,TANGERANG SELATAN,3674,both
+Banten,Lebak,BANTEN,LEBAK,3602,both
+Banten,Pandeglang,BANTEN,PANDEGLANG,3601,both
+Banten,Serang,BANTEN,SERANG,3673,both
+Banten,Tangerang,BANTEN,TANGERANG,3671,both
+Bengkulu,Bengkulu Selatan,BENGKULU,BENGKULU SELATAN,1701,both
+Bengkulu,Bengkulu Tengah,BENGKULU,BENGKULU TENGAH,1709,both
+Bengkulu,Bengkulu Utara,BENGKULU,BENGKULU UTARA,1703,both
+Bengkulu,Kaur,BENGKULU,KAUR,1704,both
+Bengkulu,Kepahiang,BENGKULU,KEPAHIANG,1708,both
+Bengkulu,Kota Bengkulu,BENGKULU,BENGKULU,1771,both
+Bengkulu,Lebong,BENGKULU,LEBONG,1707,both
+Bengkulu,Mukomuko,BENGKULU,MUKOMUKO,1706,both
+Bengkulu,Rejang Lebong,BENGKULU,REJANG LEBONG,1702,both
+Bengkulu,Seluma,BENGKULU,SELUMA,1705,both
+DI Yogyakarta,Bantul,DI YOGYAKARTA,BANTUL,3402,both
+DI Yogyakarta,Gunung Kidul,DI YOGYAKARTA,GUNUNG KIDUL,3403,both
+DI Yogyakarta,Kota Yogyakarta,DI YOGYAKARTA,YOGYAKARTA,3471,both
+DI Yogyakarta,Kulon Progo,DI YOGYAKARTA,KULON PROGO,3401,both
+DI Yogyakarta,Sleman,DI YOGYAKARTA,SLEMAN,3404,both
+DKI Jakarta,Kep. Seribu,,,,left_only
+DKI Jakarta,Kota Jakarta Barat,DKI JAKARTA,JAKARTA BARAT,3174,both
+DKI Jakarta,Kota Jakarta Pusat,DKI JAKARTA,JAKARTA PUSAT,3173,both
+DKI Jakarta,Kota Jakarta Selatan,DKI JAKARTA,JAKARTA SELATAN,3171,both
+DKI Jakarta,Kota Jakarta Timur,DKI JAKARTA,JAKARTA TIMUR,3172,both
+DKI Jakarta,Kota Jakarta Utara,DKI JAKARTA,JAKARTA UTARA,3175,both
+Jambi,Batang Hari,JAMBI,BATANG HARI,1504,both
+Jambi,Bungo,JAMBI,BUNGO,1509,both
+Jambi,Kerinci,JAMBI,KERINCI,1501,both
+Jambi,Kota Jambi,JAMBI,JAMBI,1571,both
+Jambi,Kota Sungai Penuh,JAMBI,SUNGAI PENUH,1572,both
+Jambi,Merangin,JAMBI,MERANGIN,1502,both
+Jambi,Muaro Jambi,JAMBI,MUARO JAMBI,1505,both
+Jambi,Sarolangun,JAMBI,SAROLANGUN,1503,both
+Jambi,Tanjung Jabung Barat,JAMBI,TANJUNG JABUNG BARAT,1507,both
+Jambi,Tanjung Jabung Timur,JAMBI,TANJUNG JABUNG TIMUR,1506,both
+Jambi,Tebo,JAMBI,TEBO,1508,both
+Jawa Barat,Bandung,JAWA BARAT,BANDUNG,3204,both
+Jawa Barat,Bandung Barat,JAWA BARAT,BANDUNG BARAT,3217,both
+Jawa Barat,Bekasi,JAWA BARAT,BEKASI,3216,both
+Jawa Barat,Bogor,JAWA BARAT,BOGOR,3201,both
+Jawa Barat,Ciamis,JAWA BARAT,CIAMIS,3207,both
+Jawa Barat,Cianjur,JAWA BARAT,CIANJUR,3203,both
+Jawa Barat,Cirebon,JAWA BARAT,CIREBON,3209,both
+Jawa Barat,Garut,JAWA BARAT,GARUT,3205,both
+Jawa Barat,Indramayu,JAWA BARAT,INDRAMAYU,3212,both
+Jawa Barat,Karawang,JAWA BARAT,KARAWANG,3215,both
+Jawa Barat,Kota Bandung,JAWA BARAT,BANDUNG,3204,both
+Jawa Barat,Kota Banjar,JAWA BARAT,BANJAR,3279,both
+Jawa Barat,Kota Bekasi,JAWA BARAT,BEKASI,3216,both
+Jawa Barat,Kota Bogor,JAWA BARAT,BOGOR,3201,both
+Jawa Barat,Kota Cimahi,JAWA BARAT,CIMAHI,3277,both
+Jawa Barat,Kota Cirebon,JAWA BARAT,CIREBON,3209,both
+Jawa Barat,Kota Depok,JAWA BARAT,DEPOK,3276,both
+Jawa Barat,Kota Sukabumi,JAWA BARAT,SUKABUMI,3202,both
+Jawa Barat,Kota Tasikmalaya,JAWA BARAT,TASIKMALAYA,3206,both
+Jawa Barat,Kuningan,JAWA BARAT,KUNINGAN,3208,both
+Jawa Barat,Majalengka,JAWA BARAT,MAJALENGKA,3210,both
+Jawa Barat,Pangandaran,JAWA BARAT,PANGANDARAN,3218,both
+Jawa Barat,Purwakarta,JAWA BARAT,PURWAKARTA,3214,both
+Jawa Barat,Subang,JAWA BARAT,SUBANG,3213,both
+Jawa Barat,Sukabumi,JAWA BARAT,SUKABUMI,3202,both
+Jawa Barat,Sumedang,JAWA BARAT,SUMEDANG,3211,both
+Jawa Barat,Tasikmalaya,JAWA BARAT,TASIKMALAYA,3206,both
+Jawa Tengah,Banjarnegara,JAWA TENGAH,BANJARNEGARA,3304,both
+Jawa Tengah,Banyumas,JAWA TENGAH,BANYUMAS,3302,both
+Jawa Tengah,Batang,JAWA TENGAH,BATANG,3325,both
+Jawa Tengah,Blora,JAWA TENGAH,BLORA,3316,both
+Jawa Tengah,Boyolali,JAWA TENGAH,BOYOLALI,3309,both
+Jawa Tengah,Brebes,JAWA TENGAH,BREBES,3329,both
+Jawa Tengah,Cilacap,JAWA TENGAH,CILACAP,3301,both
+Jawa Tengah,Demak,JAWA TENGAH,DEMAK,3321,both
+Jawa Tengah,Grobogan,JAWA TENGAH,GROBOGAN,3315,both
+Jawa Tengah,Jepara,JAWA TENGAH,JEPARA,3320,both
+Jawa Tengah,Karanganyar,JAWA TENGAH,KARANGANYAR,3313,both
+Jawa Tengah,Kebumen,JAWA TENGAH,KEBUMEN,3305,both
+Jawa Tengah,Kendal,JAWA TENGAH,KENDAL,3324,both
+Jawa Tengah,Klaten,JAWA TENGAH,KLATEN,3310,both
+Jawa Tengah,Kota Magelang,JAWA TENGAH,MAGELANG,3308,both
+Jawa Tengah,Kota Pekalongan,JAWA TENGAH,PEKALONGAN,3326,both
+Jawa Tengah,Kota Salatiga,JAWA TENGAH,SALATIGA,3373,both
+Jawa Tengah,Kota Semarang,JAWA TENGAH,SEMARANG,3322,both
+Jawa Tengah,Kota Surakarta,JAWA TENGAH,SURAKARTA,3372,both
+Jawa Tengah,Kota Tegal,JAWA TENGAH,TEGAL,3328,both
+Jawa Tengah,Kudus,JAWA TENGAH,KUDUS,3319,both
+Jawa Tengah,Magelang,JAWA TENGAH,MAGELANG,3308,both
+Jawa Tengah,Pati,JAWA TENGAH,PATI,3318,both
+Jawa Tengah,Pekalongan,JAWA TENGAH,PEKALONGAN,3326,both
+Jawa Tengah,Pemalang,JAWA TENGAH,PEMALANG,3327,both
+Jawa Tengah,Purbalingga,JAWA TENGAH,PURBALINGGA,3303,both
+Jawa Tengah,Purworejo,JAWA TENGAH,PURWOREJO,3306,both
+Jawa Tengah,Rembang,JAWA TENGAH,REMBANG,3317,both
+Jawa Tengah,Semarang,JAWA TENGAH,SEMARANG,3322,both
+Jawa Tengah,Sragen,JAWA TENGAH,SRAGEN,3314,both
+Jawa Tengah,Sukoharjo,JAWA TENGAH,SUKOHARJO,3311,both
+Jawa Tengah,Tegal,JAWA TENGAH,TEGAL,3328,both
+Jawa Tengah,Temanggung,JAWA TENGAH,TEMANGGUNG,3323,both
+Jawa Tengah,Wonogiri,JAWA TENGAH,WONOGIRI,3312,both
+Jawa Tengah,Wonosobo,JAWA TENGAH,WONOSOBO,3307,both
+Jawa Timur,Bangkalan,JAWA TIMUR,BANGKALAN,3526,both
+Jawa Timur,Banyuwangi,JAWA TIMUR,BANYUWANGI,3510,both
+Jawa Timur,Blitar,JAWA TIMUR,BLITAR,3505,both
+Jawa Timur,Bojonegoro,JAWA TIMUR,BOJONEGORO,3522,both
+Jawa Timur,Bondowoso,JAWA TIMUR,BONDOWOSO,3511,both
+Jawa Timur,Gresik,JAWA TIMUR,GRESIK,3525,both
+Jawa Timur,Jember,JAWA TIMUR,JEMBER,3509,both
+Jawa Timur,Jombang,JAWA TIMUR,JOMBANG,3517,both
+Jawa Timur,Kediri,JAWA TIMUR,KEDIRI,3506,both
+Jawa Timur,Kota Batu,JAWA TIMUR,BATU,3579,both
+Jawa Timur,Kota Blitar,JAWA TIMUR,BLITAR,3505,both
+Jawa Timur,Kota Kediri,JAWA TIMUR,KEDIRI,3506,both
+Jawa Timur,Kota Madiun,JAWA TIMUR,MADIUN,3519,both
+Jawa Timur,Kota Malang,JAWA TIMUR,MALANG,3507,both
+Jawa Timur,Kota Mojokerto,JAWA TIMUR,MOJOKERTO,3516,both
+Jawa Timur,Kota Pasuruan,JAWA TIMUR,PASURUAN,3575,both
+Jawa Timur,Kota Probolinggo,JAWA TIMUR,PROBOLINGGO,3574,both
+Jawa Timur,Kota Surabaya,JAWA TIMUR,SURABAYA,3578,both
+Jawa Timur,Lamongan,JAWA TIMUR,LAMONGAN,3524,both
+Jawa Timur,Lumajang,JAWA TIMUR,LUMAJANG,3508,both
+Jawa Timur,Madiun,JAWA TIMUR,MADIUN,3519,both
+Jawa Timur,Magetan,JAWA TIMUR,MAGETAN,3520,both
+Jawa Timur,Malang,JAWA TIMUR,MALANG,3507,both
+Jawa Timur,Mojokerto,JAWA TIMUR,MOJOKERTO,3516,both
+Jawa Timur,Nganjuk,JAWA TIMUR,NGANJUK,3518,both
+Jawa Timur,Ngawi,JAWA TIMUR,NGAWI,3521,both
+Jawa Timur,Pacitan,JAWA TIMUR,PACITAN,3501,both
+Jawa Timur,Pamekasan,JAWA TIMUR,PAMEKASAN,3528,both
+Jawa Timur,Pasuruan,JAWA TIMUR,PASURUAN,3575,both
+Jawa Timur,Ponorogo,JAWA TIMUR,PONOROGO,3502,both
+Jawa Timur,Probolinggo,JAWA TIMUR,PROBOLINGGO,3574,both
+Jawa Timur,Sampang,JAWA TIMUR,SAMPANG,3527,both
+Jawa Timur,Sidoarjo,JAWA TIMUR,SIDOARJO,3515,both
+Jawa Timur,Situbondo,JAWA TIMUR,SITUBONDO,3512,both
+Jawa Timur,Sumenep,JAWA TIMUR,SUMENEP,3529,both
+Jawa Timur,Trenggalek,JAWA TIMUR,TRENGGALEK,3503,both
+Jawa Timur,Tuban,JAWA TIMUR,TUBAN,3523,both
+Jawa Timur,Tulungagung,JAWA TIMUR,TULUNGAGUNG,3504,both
+Kep. Bangka Belitung,Bangka,,,,left_only
+Kep. Bangka Belitung,Bangka Barat,,,,left_only
+Kep. Bangka Belitung,Bangka Selatan,,,,left_only
+Kep. Bangka Belitung,Bangka Tengah,,,,left_only
+Kep. Bangka Belitung,Belitung,,,,left_only
+Kep. Bangka Belitung,Belitung Timur,,,,left_only
+Kep. Bangka Belitung,Kota Pangkal Pinang,,,,left_only
+Kep. Riau,Bintan,,,,left_only
+Kep. Riau,Karimun,,,,left_only
+Kep. Riau,Kepulauan Anambas,,,,left_only
+Kep. Riau,Kota Batam,,,,left_only
+Kep. Riau,Kota Tanjung Pinang,,,,left_only
+Kep. Riau,Lingga,,,,left_only
+Kep. Riau,Natuna,,,,left_only
+Lampung,Kota Bandar Lampung,LAMPUNG,BANDAR LAMPUNG,1871,both
+Lampung,Kota Metro,LAMPUNG,METRO,1872,both
+Lampung,Lampung Barat,LAMPUNG,LAMPUNG BARAT,1801,both
+Lampung,Lampung Selatan,LAMPUNG,LAMPUNG SELATAN,1803,both
+Lampung,Lampung Tengah,LAMPUNG,LAMPUNG TENGAH,1805,both
+Lampung,Lampung Timur,LAMPUNG,LAMPUNG TIMUR,1804,both
+Lampung,Lampung Utara,LAMPUNG,LAMPUNG UTARA,1806,both
+Lampung,Mesuji,LAMPUNG,MESUJI,1811,both
+Lampung,Pesawaran,LAMPUNG,PESAWARAN,1809,both
+Lampung,Pesisir Barat,LAMPUNG,PESISIR BARAT,1813,both
+Lampung,Pringsewu,LAMPUNG,PRINGSEWU,1810,both
+Lampung,Tanggamus,LAMPUNG,TANGGAMUS,1802,both
+Lampung,Tulang Bawang Barat,LAMPUNG,TULANG BAWANG BARAT,1812,both
+Lampung,Tulangbawang,LAMPUNG,TULANGBAWANG,1808,both
+Lampung,Way Kanan,LAMPUNG,WAY KANAN,1807,both
+Riau,Bengkalis,RIAU,BENGKALIS,1408,both
+Riau,Indragiri Hilir,RIAU,INDRAGIRI HILIR,1403,both
+Riau,Indragiri Hulu,RIAU,INDRAGIRI HULU,1402,both
+Riau,Kampar,RIAU,KAMPAR,1406,both
+Riau,Kepulauan Meranti,RIAU,KEPULAUAN MERANTI,1410,both
+Riau,Kota Dumai,,,,left_only
+Riau,Kota Pekanbaru,RIAU,PEKANBARU,1471,both
+Riau,Kuantan Singingi,RIAU,KUANTAN SINGINGI,1401,both
+Riau,Pelalawan,RIAU,PELALAWAN,1404,both
+Riau,Rokan Hilir,RIAU,ROKAN HILIR,1409,both
+Riau,Rokan Hulu,RIAU,ROKAN HULU,1407,both
+Riau,Siak,,,,left_only
+Sumatera Barat,Agam,SUMATERA BARAT,AGAM,1307,both
+Sumatera Barat,Dharmasraya,SUMATERA BARAT,DHARMASRAYA,1311,both
+Sumatera Barat,Kepulauan Mentawai,SUMATERA BARAT,KEPULAUAN MENTAWAI,1301,both
+Sumatera Barat,Kota Bukittinggi,SUMATERA BARAT,BUKITTINGGI,1375,both
+Sumatera Barat,Kota Padang,SUMATERA BARAT,PADANG,1371,both
+Sumatera Barat,Kota Padang Panjang,SUMATERA BARAT,PADANG PANJANG,1374,both
+Sumatera Barat,Kota Pariaman,SUMATERA BARAT,PARIAMAN,1377,both
+Sumatera Barat,Kota Payakumbuh,SUMATERA BARAT,PAYAKUMBUH,1376,both
+Sumatera Barat,Kota Sawah Lunto,SUMATERA BARAT,SAWAH LUNTO,1373,both
+Sumatera Barat,Kota Solok,SUMATERA BARAT,SOLOK,1303,both
+Sumatera Barat,Lima Puluh Kota,SUMATERA BARAT,LIMA PULUH KOTA,1308,both
+Sumatera Barat,Padang Pariaman,SUMATERA BARAT,PADANG PARIAMAN,1306,both
+Sumatera Barat,Pasaman,SUMATERA BARAT,PASAMAN,1309,both
+Sumatera Barat,Pasaman Barat,SUMATERA BARAT,PASAMAN BARAT,1312,both
+Sumatera Barat,Pesisir Selatan,SUMATERA BARAT,PESISIR SELATAN,1302,both
+Sumatera Barat,Sijunjung,SUMATERA BARAT,SIJUNJUNG,1304,both
+Sumatera Barat,Solok,SUMATERA BARAT,SOLOK,1303,both
+Sumatera Barat,Solok Selatan,SUMATERA BARAT,SOLOK SELATAN,1310,both
+Sumatera Barat,Tanah Datar,SUMATERA BARAT,TANAH DATAR,1305,both
+Sumatera Selatan,Banyu Asin,SUMATERA SELATAN,BANYU ASIN,1607,both
+Sumatera Selatan,Empat Lawang,SUMATERA SELATAN,EMPAT LAWANG,1611,both
+Sumatera Selatan,Kota Lubuklinggau,SUMATERA SELATAN,LUBUKLINGGAU,1674,both
+Sumatera Selatan,Kota Pagar Alam,SUMATERA SELATAN,PAGAR ALAM,1673,both
+Sumatera Selatan,Kota Palembang,SUMATERA SELATAN,PALEMBANG,1671,both
+Sumatera Selatan,Kota Prabumulih,SUMATERA SELATAN,PRABUMULIH,1672,both
+Sumatera Selatan,Lahat,SUMATERA SELATAN,LAHAT,1604,both
+Sumatera Selatan,Muara Enim,SUMATERA SELATAN,MUARA ENIM,1603,both
+Sumatera Selatan,Musi Banyuasin,SUMATERA SELATAN,MUSI BANYUASIN,1606,both
+Sumatera Selatan,Musi Rawas,SUMATERA SELATAN,MUSI RAWAS,1605,both
+Sumatera Selatan,Musi Rawas Utara,SUMATERA SELATAN,MUSI RAWAS UTARA,1613,both
+Sumatera Selatan,Ogan Ilir,SUMATERA SELATAN,OGAN ILIR,1610,both
+Sumatera Selatan,Ogan Komering Ilir,SUMATERA SELATAN,OGAN KOMERING ILIR,1602,both
+Sumatera Selatan,Ogan Komering Ulu,SUMATERA SELATAN,OGAN KOMERING ULU,1601,both
+Sumatera Selatan,Ogan Komering Ulu Selatan,SUMATERA SELATAN,OGAN KOMERING ULU SELATAN,1608,both
+Sumatera Selatan,Ogan Komering Ulu Timur,SUMATERA SELATAN,OGAN KOMERING ULU TIMUR,1609,both
+Sumatera Selatan,Penukal Abab Lematang Ilir,SUMATERA SELATAN,PENUKAL ABAB LEMATANG ILIR,1612,both
+Sumatera Utara,Asahan,SUMATERA UTARA,ASAHAN,1208,both
+Sumatera Utara,Batu Bara,SUMATERA UTARA,BATU BARA,1219,both
+Sumatera Utara,Dairi,SUMATERA UTARA,DAIRI,1210,both
+Sumatera Utara,Deli Serdang,SUMATERA UTARA,DELI SERDANG,1212,both
+Sumatera Utara,Humbang Hasundutan,SUMATERA UTARA,HUMBANG HASUNDUTAN,1215,both
+Sumatera Utara,Karo,SUMATERA UTARA,KARO,1211,both
+Sumatera Utara,Kota Binjai,SUMATERA UTARA,BINJAI,1276,both
+Sumatera Utara,Kota Gunungsitoli,SUMATERA UTARA,GUNUNGSITOLI,1278,both
+Sumatera Utara,Kota Medan,SUMATERA UTARA,MEDAN,1275,both
+Sumatera Utara,Kota Padangsidimpuan,SUMATERA UTARA,PADANGSIDIMPUAN,1277,both
+Sumatera Utara,Kota Pematang Siantar,SUMATERA UTARA,PEMATANG SIANTAR,1273,both
+Sumatera Utara,Kota Sibolga,SUMATERA UTARA,SIBOLGA,1271,both
+Sumatera Utara,Kota Tanjung Balai,SUMATERA UTARA,TANJUNG BALAI,1272,both
+Sumatera Utara,Kota Tebing Tinggi,SUMATERA UTARA,TEBING TINGGI,1274,both
+Sumatera Utara,Labuhan Batu,SUMATERA UTARA,LABUHAN BATU,1207,both
+Sumatera Utara,Labuhan Batu Selatan,SUMATERA UTARA,LABUHAN BATU SELATAN,1222,both
+Sumatera Utara,Labuhan Batu Utara,SUMATERA UTARA,LABUHAN BATU UTARA,1223,both
+Sumatera Utara,Langkat,SUMATERA UTARA,LANGKAT,1213,both
+Sumatera Utara,Mandailing Natal,SUMATERA UTARA,MANDAILING NATAL,1202,both
+Sumatera Utara,Nias,SUMATERA UTARA,NIAS,1201,both
+Sumatera Utara,Nias Barat,SUMATERA UTARA,NIAS BARAT,1225,both
+Sumatera Utara,Nias Selatan,SUMATERA UTARA,NIAS SELATAN,1214,both
+Sumatera Utara,Nias Utara,SUMATERA UTARA,NIAS UTARA,1224,both
+Sumatera Utara,Padang Lawas,SUMATERA UTARA,PADANG LAWAS,1221,both
+Sumatera Utara,Padang Lawas Utara,SUMATERA UTARA,PADANG LAWAS UTARA,1220,both
+Sumatera Utara,Pakpak Bharat,SUMATERA UTARA,PAKPAK BHARAT,1216,both
+Sumatera Utara,Samosir,SUMATERA UTARA,SAMOSIR,1217,both
+Sumatera Utara,Serdang Bedagai,SUMATERA UTARA,SERDANG BEDAGAI,1218,both
+Sumatera Utara,Simalungun,SUMATERA UTARA,SIMALUNGUN,1209,both
+Sumatera Utara,Tapanuli Selatan,SUMATERA UTARA,TAPANULI SELATAN,1203,both
+Sumatera Utara,Tapanuli Tengah,SUMATERA UTARA,TAPANULI TENGAH,1204,both
+Sumatera Utara,Tapanuli Utara,SUMATERA UTARA,TAPANULI UTARA,1205,both
+Sumatera Utara,Toba Samosir / Toba,,,,left_only

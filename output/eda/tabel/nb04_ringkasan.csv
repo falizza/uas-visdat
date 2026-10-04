@@ -1,6 +1,10 @@
 Indikator,Nilai
 Jumlah kab/kota,273.0
-Jumlah variabel PCA,6.0
-PC1 explained variance (%),43.228050669775435
-PC2 explained variance (%),24.214404156122846
-PC1+PC2 explained variance (%),67.44245482589828
+Jumlah variabel PCA,8.0
+Jumlah observasi per variabel,273.0
+PC1 explained variance (%),47.53892492905557
+PC2 explained variance (%),22.09197998311429
+PC3 explained variance (%),14.97189865804535
+PC1+PC2 explained variance (%),69.63090491216985
+PC1+PC2+PC3 explained variance (%),84.6028035702152
+PC1+PC2+PC3+PC4 explained variance (%),90.7435690088419

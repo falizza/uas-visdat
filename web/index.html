@@ -1,0 +1,1445 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menua di Tengah Perubahan</title>
+    <meta
+        name="description"
+        content="Data story tentang lansia dan kesejahteraan di Jawa dan Sumatera, 2020–2024."
+    >
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet"
+    >
+    <!-- Leaflet -->
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    >
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <!-- OPENING-->
+    <section class="story-section opening-section" id="opening">
+        <div class="opening-content">
+            <div class="opening-character opening-character-left">
+                <img
+                    src="assets/kakek.png"
+                    alt="Ilustrasi kakek"
+                    class="character-image"
+                >
+                <div class="character-caption">
+                    <span>Menua di</span>
+                    <strong>Tengah Perubahan</strong>
+                </div>
+            </div>
+            <div class="opening-center">
+                <p class="eyebrow">
+                    DATA STORY
+                </p>
+                <h1>
+                    Menua di Tengah Perubahan
+                </h1>
+                <p class="opening-subtitle">
+                    Lansia dan kesejahteraan di
+                    <strong>Jawa dan Sumatera</strong>,
+                    2020–2024
+                </p>
+                <div class="opening-scroll">
+                    <span>Scroll untuk menjelajah</span>
+                    <div class="scroll-arrow">
+                        ↓
+                    </div>
+                </div>
+            </div>
+
+            <div class="opening-character opening-character-right">
+                <img
+                    src="assets/nenek.png"
+                    alt="Ilustrasi nenek"
+                    class="character-image"
+                >
+                <div class="character-caption">
+                    <span>Lansia dan</span>
+                    <strong>Kesejahteraan</strong>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 01 — KONTEKS-->
+    <section class="story-section context-section" id="context">
+        <div class="section-inner">
+            <!-- Header -->
+            <div class="section-heading reveal">
+                <div class="section-number">
+                    01
+                </div>
+                <div>
+                    <p class="section-kicker">
+                        KONTEKS
+                    </p>
+                    <h2>
+                        Menua bukan hanya<br>
+                        tentang bertambahnya usia.
+                    </h2>
+                </div>
+            </div>
+            <!-- Main context -->
+            <div class="context-main">
+                <div class="context-copy reveal">
+                    <p class="context-lead">
+                        Proporsi penduduk lansia di wilayah Jawa dan
+                        Sumatera terus meningkat sepanjang 2020–2024.
+                    </p>
+                    <p>
+                        Namun, proses penuaan berlangsung di tengah
+                        kondisi sosial dan ekonomi yang berbeda-beda
+                        antarwilayah.
+                    </p>
+                    <p>
+                        Karena itu, perubahan jumlah lansia perlu
+                        dilihat bersama dengan indikator kesejahteraan
+                        yang menggambarkan kondisi pendidikan,
+                        kesehatan, dan daya beli masyarakat.
+                    </p>
+                </div>
+                <!-- Big number -->
+                <div class="context-highlight reveal">
+                    <div class="highlight-label">
+                        PROPORSI LANSIA
+                    </div>
+                    <div class="highlight-value">
+                        <span
+                            class="counter"
+                            data-start="9.89"
+                            data-end="11.41"
+                            data-decimal="2"
+                        >
+                            9.89
+                        </span>
+                        <span class="highlight-unit">%</span>
+                    </div>
+                    <div class="highlight-period">
+                        2020&nbsp;&nbsp;→&nbsp;&nbsp;2024
+                    </div>
+                    <div class="highlight-description">
+                        Rata-rata proporsi penduduk lansia
+                        dalam wilayah pengamatan meningkat
+                        sekitar <strong>1,52 poin persentase</strong>.
+                    </div>
+                </div>
+            </div>
+            <!-- Indicator comparison -->
+            <div class="context-indicators reveal">
+                <div class="indicator-intro">
+                    <p class="indicator-kicker">
+                        PERUBAHAN INDIKATOR
+                    </p>
+                    <h3>
+                        Bersamaan dengan meningkatnya
+                        proporsi lansia,
+                    </h3>
+                    <p>
+                        beberapa indikator kesejahteraan juga
+                        menunjukkan perubahan selama periode pengamatan.
+                    </p>
+                </div>
+                <div class="indicator-grid">
+                    <!-- RLS -->
+                    <article class="indicator-card">
+                        <div class="indicator-top">
+                            <span class="indicator-name">
+                                Rata-rata Lama Sekolah
+                            </span>
+                            <span class="indicator-unit">
+                                tahun
+                            </span>
+                        </div>
+                        <div class="indicator-values">
+                            <div class="indicator-year">
+                                <span>2020</span>
+                                <strong>
+                                    <span
+                                        class="counter"
+                                        data-start="8.594"
+                                        data-end="8.594"
+                                        data-decimal="2"
+                                    >
+                                        8.59
+                                    </span>
+                                </strong>
+                            </div>
+                            <div class="indicator-arrow">
+                                →
+                            </div>
+                            <div class="indicator-year">
+                                <span>2024</span>
+                                <strong>
+                                    <span
+                                        class="counter"
+                                        data-start="8.594"
+                                        data-end="8.982"
+                                        data-decimal="2"
+                                    >
+                                        8.98
+                                    </span>
+                                </strong>
+                            </div>
+                        </div>
+                        <div class="indicator-line">
+                            <span style="width: 62%;"></span>
+                        </div>
+                    </article>
+                    <!-- AHH -->
+                    <article class="indicator-card">
+                        <div class="indicator-top">
+                            <span class="indicator-name">
+                                Umur Harapan Hidup
+                            </span>
+                            <span class="indicator-unit">
+                                tahun
+                            </span>
+                        </div>
+                        <div class="indicator-values">
+                            <div class="indicator-year">
+                                <span>2020</span>
+                                <strong>
+                                    <span
+                                        class="counter"
+                                        data-start="70.624"
+                                        data-end="70.624"
+                                        data-decimal="2"
+                                    >
+                                        70.62
+                                    </span>
+                                </strong>
+                            </div>
+                            <div class="indicator-arrow">
+                                →
+                            </div>
+                            <div class="indicator-year">
+                                <span>2024</span>
+                                <strong>
+                                    <span
+                                        class="counter"
+                                        data-start="70.624"
+                                        data-end="71.612"
+                                        data-decimal="2"
+                                    >
+                                        71.61
+                                    </span>
+                                </strong>
+                            </div>
+
+                        </div>
+                        <div class="indicator-line">
+                            <span style="width: 71%;"></span>
+                        </div>
+                    </article>
+                    <!-- Pengeluaran -->
+                    <article class="indicator-card">
+                        <div class="indicator-top">
+                            <span class="indicator-name">
+                                Pengeluaran per Kapita
+                            </span>
+                            <span class="indicator-unit">
+                                ribu Rp
+                            </span>
+                        </div>
+                        <div class="indicator-values">
+                            <div class="indicator-year">
+                                <span>2020</span>
+                                <strong>
+                                    <span
+                                        class="counter"
+                                        data-start="11009.388"
+                                        data-end="11009.388"
+                                        data-decimal="0"
+                                    >
+                                        11009
+                                    </span>
+                                </strong>
+                            </div>
+                            <div class="indicator-arrow">
+                                →
+                            </div>
+                            <div class="indicator-year">
+                                <span>2024</span>
+                                <strong>
+                                    <span
+                                        class="counter"
+                                        data-start="11009.388"
+                                        data-end="12229.410"
+                                        data-decimal="0"
+                                    >
+                                        12229
+                                    </span>
+                                </strong>
+                            </div>
+                        </div>
+                        <div class="indicator-line">
+                            <span style="width: 78%;"></span>
+                        </div>
+                    </article>
+                    <!-- Kemiskinan -->
+                    <article class="indicator-card">
+                        <div class="indicator-top">
+                            <span class="indicator-name">
+                                Tingkat Kemiskinan
+                            </span>
+                            <span class="indicator-unit">
+                                persen
+                            </span>
+                        </div>
+                        <div class="indicator-values">
+                            <div class="indicator-year">
+                                <span>2020</span>
+                                <strong>
+                                    <span
+                                        class="counter"
+                                        data-start="10.322"
+                                        data-end="10.322"
+                                        data-decimal="2"
+                                    >
+                                        10.32
+                                    </span>
+                                </strong>
+                            </div>
+                            <div class="indicator-arrow">
+                                →
+                            </div>
+
+                            <div class="indicator-year">
+                                <span>2024</span>
+                                <strong>
+                                    <span
+                                        class="counter"
+                                        data-start="10.322"
+                                        data-end="9.438"
+                                        data-decimal="2"
+                                    >
+                                        9.44
+                                    </span>
+                                </strong>
+                            </div>
+                        </div>
+                        <div class="indicator-line">
+                            <span style="width: 48%;"></span>
+                        </div>
+                    </article>
+                </div>
+            </div>
+            <!-- Transition -->
+            <div class="context-transition reveal">
+                <div class="transition-line"></div>
+                <p>
+                    Tetapi perubahan rata-rata belum menjawab
+                    satu pertanyaan penting:
+                </p>
+                <h3>
+                    Apakah wilayah dengan lebih banyak lansia
+                    juga memiliki kondisi kesejahteraan yang lebih baik?
+                </h3>
+                <div class="transition-arrow">
+                    ↓
+                </div>
+                <span class="next-section-label">
+                    02 — POLA SPASIAL
+                </span>
+            </div>
+        </div>
+    </section>
+
+    <!-- 02 — POLA SPASIAL -->
+    <section
+        class="story-section spatial-section"
+        id="spatial"
+    >
+        <div class="section-inner">
+            <!-- Header -->
+            <div class="section-heading reveal">
+                <div class="section-number">
+                    02
+                </div>
+                <div>
+                    <p class="section-kicker">
+                        POLA SPASIAL
+                    </p>
+                    <h2>
+                        Penuaan penduduk<br>
+                        tidak tersebar merata.
+                    </h2>
+                </div>
+            </div>
+            <!-- Intro -->
+            <div class="spatial-intro reveal">
+                <p class="spatial-lead">
+                    Setiap kabupaten/kota memiliki kondisi demografis
+                    yang berbeda. Peta berikut menunjukkan bagaimana
+                    proporsi lansia dan tingkat kemiskinan tersebar
+                    di Jawa dan Sumatera.
+                </p>
+                <p class="spatial-note">
+                    Gunakan pilihan tahun dan indikator untuk melihat
+                    perubahan pola antardaerah.
+                </p>
+            </div>
+            <!-- Map controls -->
+            <div class="map-toolbar reveal">
+                <div class="map-control-group">
+                    <span class="map-control-label">
+                        TAHUN
+                    </span>
+                    <div
+                        class="year-buttons"
+                        id="spatial-year-buttons"
+                    >
+                        <button
+                            type="button"
+                            class="year-button"
+                            data-year="2020"
+                        >
+                            2020
+                        </button>
+                        <button
+                            type="button"
+                            class="year-button"
+                            data-year="2021"
+                        >
+                            2021
+                        </button>
+                        <button
+                            type="button"
+                            class="year-button"
+                            data-year="2022"
+                        >
+                            2022
+                        </button>
+                        <button
+                            type="button"
+                            class="year-button"
+                            data-year="2023"
+                        >
+                            2023
+                        </button>
+                        <button
+                            type="button"
+                            class="year-button active"
+                            data-year="2024"
+                        >
+                            2024
+                        </button>
+                    </div>
+                </div>
+                <div class="map-control-group">
+                    <span class="map-control-label">
+                        INDIKATOR
+                    </span>
+                    <div class="indicator-buttons">
+                        <button
+                            type="button"
+                            class="map-indicator-button active"
+                            data-indicator="pct_lansia"
+                        >
+                            Proporsi Lansia
+                        </button>
+                        <button
+                            type="button"
+                            class="map-indicator-button"
+                            data-indicator="p0_miskin"
+                        >
+                            Tingkat Kemiskinan
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <!-- Map -->
+            <div class="spatial-map-wrap reveal">
+                <div
+                    id="spatial-map"
+                    class="spatial-map"
+                    aria-label="Peta interaktif proporsi lansia dan tingkat kemiskinan"
+                ></div>
+                <div class="map-loading" id="map-loading">
+                    Memuat peta...
+                </div>
+            </div>
+            <!-- Map explanation -->
+            <div class="spatial-map-caption reveal">
+                <div class="map-legend-description">
+                    <div class="map-legend-title">
+                        <span id="map-legend-title">
+                            Proporsi Lansia (%)
+                        </span>
+                    </div>
+                    <div class="map-gradient">
+                        <span
+                            class="gradient-bar"
+                            id="map-gradient"
+                        ></span>
+                        <div class="gradient-labels">
+                            <span id="legend-min">—</span>
+                            <span id="legend-max">—</span>
+                        </div>
+                    </div>
+                </div>
+                <p>
+                    Warna yang semakin pekat menunjukkan nilai indikator
+                    yang semakin tinggi. Arah pola spasial dapat dilihat
+                    dengan menggerakkan kursor ke wilayah untuk melihat
+                    nilai kabupaten/kota secara rinci.
+                </p>
+            </div>
+            <!-- Spatial finding -->
+            <div class="spatial-finding reveal">
+                <div class="finding-line"></div>
+                <div class="finding-content">
+                    <p class="finding-kicker">
+                        CARA MEMBACA PETA
+                    </p>
+                    <h3>
+                        Pola nasional tidak selalu menggambarkan
+                        kondisi setiap wilayah.
+                    </h3>
+                    <p>
+                        Perbedaan antarwilayah menjadi penting karena
+                        peningkatan proporsi lansia berlangsung pada
+                        tingkat kabupaten/kota, bukan secara seragam
+                        di seluruh Jawa dan Sumatera.
+                    </p>
+                </div>
+            </div>
+            <!-- Transition -->
+            <div class="spatial-transition reveal">
+                <p>
+                    Namun, peta hanya menunjukkan <strong>di mana</strong>
+                    perbedaan itu terjadi.
+                </p>
+                <h3>
+                    Selanjutnya, kita lihat apakah pola penuaan
+                    berkaitan dengan kondisi kesejahteraan wilayah.
+                </h3>
+                <div class="transition-arrow">
+                    ↓
+                </div>
+                <span class="next-section-label">
+                    03 — LANSIA × KESEJAHTERAAN
+                </span>
+            </div>
+        </div>
+    </section>
+
+        <!-- 03 — LANSIA × KESEJAHTERAAN -->
+    <section
+        class="story-section welfare-section"
+        id="welfare"
+    >
+        <div class="section-inner">
+            <!-- Header -->
+            <div class="section-heading reveal">
+                <div class="section-number">
+                    03
+                </div>
+                <div>
+                    <p class="section-kicker">
+                        LANSIA × KESEJAHTERAAN
+                    </p>
+                    <h2>
+                        Lebih banyak lansia,<br>
+                        apakah berarti lebih sejahtera?
+                    </h2>
+                </div>
+            </div>
+
+            <!-- Intro -->
+            <div class="welfare-intro reveal">
+                <p class="welfare-lead">
+                    Proporsi lansia dan kondisi kesejahteraan
+                    tidak selalu bergerak dalam pola yang sama.
+                </p>
+                <p>
+                    Setiap titik pada grafik mewakili satu
+                    kabupaten/kota. Posisi titik menunjukkan
+                    proporsi lansia dan tingkat kemiskinan,
+                    sedangkan warna menunjukkan tipologi wilayah.
+                </p>
+            </div>
+
+            <!-- Controls -->
+            <div class="welfare-toolbar reveal">
+                <div class="map-control-group">
+                    <span class="map-control-label">
+                        TAHUN
+                    </span>
+                    <div
+                        class="welfare-year-buttons"
+                        id="welfare-year-buttons"
+                    >
+                        <button
+                            type="button"
+                            class="welfare-year-button"
+                            data-year="2020"
+                        >
+                            2020
+                        </button>
+
+                        <button
+                            type="button"
+                            class="welfare-year-button"
+                            data-year="2021"
+                        >
+                            2021
+                        </button>
+
+                        <button
+                            type="button"
+                            class="welfare-year-button"
+                            data-year="2022"
+                        >
+                            2022
+                        </button>
+                        <button
+                            type="button"
+                            class="welfare-year-button"
+                            data-year="2023"
+                        >
+                            2023
+                        </button>
+                        <button
+                            type="button"
+                            class="welfare-year-button active"
+                            data-year="2024"
+                        >
+                            2024
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Main visualization -->
+            <div class="welfare-visual reveal">
+                <div
+                    id="welfare-scatter"
+                    class="welfare-scatter"
+                ></div>
+                <div
+                    id="welfare-loading"
+                    class="welfare-loading"
+                >
+                    Memuat visualisasi...
+                </div>
+            </div>
+
+            <!-- Explanation -->
+            <div class="welfare-bottom reveal">
+                <div class="welfare-legend">
+                    <p class="welfare-legend-title">
+                        TIPOLOGI WILAYAH
+                    </p>
+                    <div class="welfare-legend-item">
+                        <span class="legend-dot typology-high-high"></span>
+                        <span>
+                            Lansia tinggi · Kemiskinan tinggi
+                        </span>
+                    </div>
+                    <div class="welfare-legend-item">
+                        <span class="legend-dot typology-high-low"></span>
+                        <span>
+                            Lansia tinggi · Kemiskinan rendah
+                        </span>
+                    </div>
+                    <div class="welfare-legend-item">
+                        <span class="legend-dot typology-low-high"></span>
+                        <span>
+                            Lansia rendah · Kemiskinan tinggi
+                        </span>
+                    </div>
+                    <div class="welfare-legend-item">
+                        <span class="legend-dot typology-low-low"></span>
+                        <span>
+                            Lansia rendah · Kemiskinan rendah
+                        </span>
+                    </div>
+                </div>
+                <div class="welfare-insight">
+                    <p class="finding-kicker">
+                        CARA MEMBACA
+                    </p>
+                    <h3 id="welfare-insight-title">
+                        Lihat bagaimana posisi wilayah
+                        berbeda pada tahun yang dipilih.
+                    </h3>
+                    <p id="welfare-insight-text">
+                        Gunakan pilihan tahun dan arahkan kursor
+                        ke titik untuk melihat karakteristik
+                        masing-masing kabupaten/kota.
+                    </p>
+                </div>
+            </div>
+            <!-- Transition -->
+            <div class="welfare-transition reveal">
+                <p>
+                    Hubungan antarindikator tidak cukup dilihat
+                    dari satu titik waktu.
+                </p>
+                <h3>
+                    Berikutnya, kita telusuri bagaimana
+                    kondisi tersebut berubah sepanjang 2020–2024.
+                </h3>
+                <div class="transition-arrow">
+                    ↓
+                </div>
+                <span class="next-section-label">
+                    04 — DINAMIKA 2020–2024
+                </span>
+            </div>
+        </div>
+    </section>
+
+    <!-- 04 — DINAMIKA 2020–2024 -->
+    <section
+        class="story-section dynamics-section"
+        id="dynamics"
+    >
+        <div class="section-inner">
+
+            <div class="section-heading reveal">
+                <div class="section-number">04</div>
+
+                <div>
+                    <p class="section-kicker">
+                        DINAMIKA 2020–2024
+                    </p>
+
+                    <h2>
+                        Lansia bertambah,<br>
+                        tetapi perubahan tiap wilayah berbeda.
+                    </h2>
+                </div>
+            </div>
+
+
+            <div class="dynamics-intro reveal">
+
+                <p class="dynamics-lead">
+                    Dalam lima tahun, proporsi lansia meningkat
+                    di banyak kabupaten/kota.
+                </p>
+
+                <p>
+                    Namun perubahan tersebut tidak berlangsung
+                    dengan pola yang sama. Grafik berikut
+                    membandingkan posisi setiap kabupaten/kota
+                    pada 2020 dan 2024.
+                </p>
+
+            </div>
+
+
+            <div class="dynamics-visual reveal">
+
+                <div
+                    id="dynamics-scatter"
+                    class="dynamics-scatter"
+                ></div>
+
+                <div
+                    id="dynamics-loading"
+                    class="dynamics-loading"
+                >
+                    Memuat visualisasi...
+                </div>
+
+            </div>
+
+
+            <div class="dynamics-bottom reveal">
+
+                <div class="dynamics-legend">
+
+                    <p class="dynamics-legend-title">
+                        CARA MEMBACA
+                    </p>
+
+                    <div class="dynamics-legend-item">
+                        <span class="dynamics-line"></span>
+                        <span>
+                            Arah perubahan 2020 → 2024
+                        </span>
+                    </div>
+
+                    <div class="dynamics-legend-item">
+                        <span class="dynamics-dot start"></span>
+                        <span>
+                            Posisi 2020
+                        </span>
+                    </div>
+
+                    <div class="dynamics-legend-item">
+                        <span class="dynamics-dot end"></span>
+                        <span>
+                            Posisi 2024
+                        </span>
+                    </div>
+
+                </div>
+
+
+                <div class="dynamics-insight">
+
+                    <p class="finding-kicker">
+                        PERUBAHAN
+                    </p>
+
+                    <h3 id="dynamics-insight-title">
+                        Perubahan tidak seragam antarwilayah.
+                    </h3>
+
+                    <p id="dynamics-insight-text">
+                        Arah garis menunjukkan bagaimana posisi
+                        suatu kabupaten/kota berubah antara 2020
+                        dan 2024.
+                    </p>
+
+                </div>
+
+            </div>
+
+
+            <div class="dynamics-transition reveal">
+
+                <p>
+                    Dari perubahan antarwaktu,
+                    kita kemudian melihat struktur wilayah
+                    yang membentuk pola tersebut.
+                </p>
+
+                <h3>
+                    Siapa yang berada di dalam struktur
+                    tersebut?
+                </h3>
+
+                <div class="transition-arrow">
+                    ↓
+                </div>
+
+                <span class="next-section-label">
+                    05 — STRUKTUR HIERARKI WILAYAH
+                </span>
+
+            </div>
+
+        </div>
+    </section>
+    <section class="story-section hierarchy-section" id="hierarchy">
+        <div class="section-inner">
+
+            <div class="section-heading reveal">
+                <div class="section-number">05</div>
+                <div>
+                    <p class="section-kicker">STRUKTUR HIERARKI WILAYAH</p>
+                    <h2>
+                        Di balik angka nasional,<br>
+                        ada struktur wilayah yang berlapis.
+                    </h2>
+                </div>
+            </div>
+
+            <div class="hierarchy-intro reveal">
+                <p class="hierarchy-lead">
+                    Kondisi lansia di Jawa dan Sumatera
+                    terbentuk dari struktur wilayah yang bertingkat.
+                </p>
+
+                <p>
+                    Setiap wilayah dapat dilihat dari tingkat pulau,
+                    provinsi, hingga kabupaten/kota. Ukuran kotak
+                    menunjukkan jumlah penduduk, sedangkan warna
+                    menunjukkan proporsi lansia.
+                </p>
+            </div>
+            <div class="hierarchy-breadcrumb reveal" id="hierarchy-breadcrumb">
+                <button
+                    type="button"
+                    class="hierarchy-breadcrumb-button active"
+                    data-level="root"
+                >
+                    Jawa &amp; Sumatera
+                </button>
+            </div>
+
+            <div class="hierarchy-visual reveal">
+
+                <div class="hierarchy-view hierarchy-treemap-view">
+                    <div class="hierarchy-view-header">
+                        <div>
+                            <p class="hierarchy-view-kicker">
+                                TREEMAP
+                            </p>
+                            <h3>
+                                Besaran penduduk dan proporsi lansia
+                            </h3>
+                        </div>
+
+                        <p class="hierarchy-view-note">
+                            Klik wilayah untuk melihat tingkat
+                            yang lebih rinci.
+                        </p>
+                    </div>
+
+                    <div
+                        id="hierarchy-treemap"
+                        class="hierarchy-treemap"
+                    ></div>
+                </div>
+
+                <div class="hierarchy-view hierarchy-sunburst-view">
+                    <div class="hierarchy-view-header">
+                        <div>
+                            <p class="hierarchy-view-kicker">
+                                SUNBURST
+                            </p>
+                            <h3>
+                                Struktur wilayah dari pusat ke rincian
+                            </h3>
+                        </div>
+
+                        <p class="hierarchy-view-note">
+                            Klik segmen untuk melakukan drill-down.
+                        </p>
+                    </div>
+
+                    <div
+                        id="hierarchy-sunburst"
+                        class="hierarchy-sunburst"
+                    ></div>
+                </div>
+
+            </div>
+
+            <div class="hierarchy-legend reveal">
+
+                <div class="hierarchy-legend-size">
+                    <p class="hierarchy-legend-title">
+                        UKURAN
+                    </p>
+
+                    <p>
+                        Luas area menunjukkan jumlah penduduk.
+                    </p>
+                </div>
+
+                <div class="hierarchy-legend-color">
+                    <p class="hierarchy-legend-title">
+                        WARNA
+                    </p>
+
+                    <div class="hierarchy-color-scale">
+                        <span class="hierarchy-color-low">
+                            Rendah
+                        </span>
+
+                        <div class="hierarchy-color-gradient"></div>
+
+                        <span class="hierarchy-color-high">
+                            Tinggi
+                        </span>
+                    </div>
+
+                    <p>
+                        Proporsi penduduk lansia (%).
+                    </p>
+                </div>
+
+            </div>
+
+            <div class="hierarchy-insight reveal">
+
+                <div>
+                    <p class="finding-kicker">
+                        CARA MEMBACA
+                    </p>
+
+                    <h3 id="hierarchy-insight-title">
+                        Mulai dari wilayah besar,
+                        lalu telusuri hingga kabupaten/kota.
+                    </h3>
+                </div>
+
+                <p id="hierarchy-insight-text">
+                    Gunakan treemap atau sunburst untuk melihat
+                    bagaimana struktur penduduk tersebar dari
+                    tingkat pulau hingga kabupaten/kota.
+                </p>
+
+            </div>
+
+            <div class="hierarchy-transition reveal">
+                <p>
+                    Struktur wilayah membantu kita melihat
+                    pola secara lebih rinci.
+                </p>
+
+                <h3>
+                    Namun, bagaimana jika seluruh indikator
+                    dilihat secara bersamaan?
+                </h3>
+
+                <div class="transition-arrow">↓</div>
+
+                <span class="next-section-label">
+                    06 — POLA MULTIVARIAT
+                </span>
+            </div>
+
+        </div>
+    </section>
+    <section class="story-section multivariate-section" id="multivariate">
+        <div class="section-inner">
+
+            <div class="section-heading reveal">
+                <div class="section-number">06</div>
+                <div>
+                    <p class="section-kicker">POLA MULTIVARIAT</p>
+                    <h2>
+                        Satu wilayah tidak hanya<br>
+                        punya satu karakteristik.
+                    </h2>
+                </div>
+            </div>
+
+            <div class="multivariate-intro reveal">
+                <p class="multivariate-lead">
+                    Kondisi setiap kabupaten/kota terbentuk
+                    dari berbagai karakteristik demografi,
+                    pendidikan, kesehatan, dan ekonomi.
+                </p>
+
+                <p>
+                    Untuk melihat pola tersebut secara bersamaan,
+                    delapan indikator diringkas menggunakan
+                    PCA dan dibandingkan dengan UMAP.
+                </p>
+            </div>
+
+            <div class="multivariate-summary reveal">
+
+                <div class="multivariate-summary-item">
+                    <span class="multivariate-summary-number">
+                        273
+                    </span>
+                    <span class="multivariate-summary-label">
+                        kabupaten/kota
+                    </span>
+                </div>
+
+                <div class="multivariate-summary-item">
+                    <span class="multivariate-summary-number">
+                        8
+                    </span>
+                    <span class="multivariate-summary-label">
+                        indikator
+                    </span>
+                </div>
+
+                <div class="multivariate-summary-item">
+                    <span class="multivariate-summary-number">
+                        2024
+                    </span>
+                    <span class="multivariate-summary-label">
+                        tahun analisis
+                    </span>
+                </div>
+
+                <div class="multivariate-summary-item">
+                    <span class="multivariate-summary-number">
+                        84,6%
+                    </span>
+                    <span class="multivariate-summary-label">
+                        variasi PC1–PC3
+                    </span>
+                </div>
+
+            </div>
+
+            <div class="multivariate-section-heading reveal">
+                <p class="multivariate-kicker">
+                    DIMENSION REDUCTION
+                </p>
+
+                <h3>
+                    PCA merangkum delapan indikator
+                    menjadi beberapa dimensi utama.
+                </h3>
+
+                <p>
+                    Titik yang berdekatan memiliki profil
+                    multivariat yang relatif mirip.
+                </p>
+            </div>
+
+            <div class="multivariate-pca-layout reveal">
+
+                <div class="multivariate-pca-chart">
+                    <div class="multivariate-chart-header">
+                        <div>
+                            <p class="multivariate-chart-kicker">
+                                PCA
+                            </p>
+
+                            <h4>
+                                Posisi kabupaten/kota
+                                berdasarkan PC1 dan PC2
+                            </h4>
+                        </div>
+
+                        <p class="multivariate-chart-note">
+                            Arahkan kursor ke titik untuk
+                            melihat wilayah.
+                        </p>
+                    </div>
+
+                    <div
+                        id="multivariate-pca"
+                        class="multivariate-chart"
+                    ></div>
+                </div>
+
+                <div class="multivariate-pca-info">
+
+                    <div class="multivariate-info-block">
+                        <p class="multivariate-info-label">
+                            PC1
+                        </p>
+
+                        <strong>
+                            47,54%
+                        </strong>
+
+                        <p>
+                            Dimensi utama yang menangkap
+                            variasi terbesar antarwilayah.
+                        </p>
+                    </div>
+
+                    <div class="multivariate-info-block">
+                        <p class="multivariate-info-label">
+                            PC2
+                        </p>
+
+                        <strong>
+                            22,09%
+                        </strong>
+
+                        <p>
+                            Terutama berkaitan dengan
+                            pendidikan dan standar hidup.
+                        </p>
+                    </div>
+
+                    <div class="multivariate-info-block">
+                        <p class="multivariate-info-label">
+                            PC3
+                        </p>
+
+                        <strong>
+                            14,97%
+                        </strong>
+
+                        <p>
+                            Menunjukkan kontras struktur
+                            demografis dan skala wilayah.
+                        </p>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="multivariate-section-heading reveal">
+                <p class="multivariate-kicker">NON-LINEAR REDUCTION</p>
+
+                <h3>
+                    UMAP memperlihatkan kedekatan
+                    profil wilayah secara non-linear.
+                </h3>
+
+                <p>
+                    Setiap titik mewakili satu kabupaten/kota.
+                    Titik yang berdekatan menunjukkan profil
+                    delapan indikator yang relatif mirip,
+                    sedangkan titik yang berjauhan menunjukkan
+                    profil yang semakin berbeda. Area kontur yang
+                    lebih padat menunjukkan konsentrasi wilayah
+                    dengan profil serupa.
+                </p>
+            </div>
+
+            <div class="multivariate-umap-layout reveal">
+                <div class="multivariate-umap-chart">
+                    <div class="multivariate-chart-header">
+                        <div>
+                            <p class="multivariate-chart-kicker">UMAP</p>
+
+                            <h4>
+                                Kedekatan profil kabupaten/kota
+                            </h4>
+                        </div>
+
+                        <p class="multivariate-chart-note">
+                            Area berarsir menunjukkan kepadatan titik.
+                            Sumbu UMAP tidak mewakili indikator tertentu.
+                        </p>
+                    </div>
+
+                    <div
+                        id="multivariate-umap"
+                        class="multivariate-chart"
+                    ></div>
+                </div>
+            </div>
+
+            <div class="multivariate-profile reveal">
+
+                <div class="multivariate-profile-header">
+                    <div>
+                        <p class="multivariate-kicker">
+                            PROFIL WILAYAH
+                        </p>
+
+                        <h3 id="multivariate-profile-title">
+                            Pilih satu wilayah
+                        </h3>
+                    </div>
+
+                    <p id="multivariate-profile-description">
+                        Pilih titik pada PCA atau UMAP untuk
+                        melihat profil delapan indikator.
+                    </p>
+                </div>
+
+                <div
+                    id="multivariate-parallel"
+                    class="multivariate-parallel"
+                ></div>
+
+            </div>
+
+            <div class="multivariate-insight reveal">
+                <div>
+                    <p class="finding-kicker">CARA MEMBACA</p>
+
+                    <h3 id="multivariate-insight-title">
+                        Kedekatan posisi menunjukkan
+                        kemiripan profil.
+                    </h3>
+                </div>
+
+                <p id="multivariate-insight-text">
+                    Wilayah yang berada dekat dengan konsentrasi
+                    utama memiliki karakteristik multivariat yang
+                    relatif serupa. Sebaliknya, wilayah yang berada
+                    lebih jauh dari konsentrasi tersebut memiliki
+                    profil yang relatif berbeda. Sumbu UMAP 1 dan
+                    UMAP 2 tidak memiliki arti indikator secara
+                    langsung, sehingga karakteristik pembentuk
+                    profil perlu diperiksa kembali melalui
+                    parallel coordinates.
+                </p>
+            </div>
+
+            <div class="multivariate-transition reveal">
+
+                <p>
+                    Setelah melihat wilayah dari sisi ruang,
+                    waktu, struktur, dan banyak indikator...
+                </p>
+
+                <h3>
+                    Apa yang akhirnya dapat kita simpulkan
+                    tentang penuaan penduduk?
+                </h3>
+
+                <div class="transition-arrow">↓</div>
+
+                <span class="next-section-label">
+                    07 — KESIMPULAN
+                </span>
+
+            </div>
+
+        </div>
+    </section>
+    <section class="story-section conclusion-section" id="conclusion">
+        <div class="section-inner">
+
+            <div class="section-heading reveal">
+                <div class="section-number">07</div>
+
+                <div>
+                    <p class="section-kicker">KESIMPULAN</p>
+
+                    <h2>
+                        Menua adalah perubahan demografis,<br>
+                        tetapi dampaknya tidak seragam.
+                    </h2>
+                </div>
+            </div>
+
+            <div class="conclusion-lead reveal">
+                <p>
+                    Dalam lima tahun, proporsi penduduk lansia
+                    meningkat di seluruh kabupaten/kota yang
+                    dianalisis di Jawa dan Sumatera.
+                </p>
+            </div>
+
+            <div class="conclusion-findings reveal">
+
+                <article class="conclusion-finding">
+                    <span class="conclusion-number">01</span>
+
+                    <div>
+                        <h3>
+                            Proporsi lansia terus meningkat.
+                        </h3>
+
+                        <p>
+                            Rata-rata proporsi lansia meningkat
+                            dari 9,89% pada 2020 menjadi 11,41%
+                            pada 2024. Seluruh 273 kabupaten/kota
+                            mengalami peningkatan.
+                        </p>
+                    </div>
+                </article>
+
+                <article class="conclusion-finding">
+                    <span class="conclusion-number">02</span>
+
+                    <div>
+                        <h3>
+                            Penuaan tidak memiliki hubungan sederhana
+                            dengan kemiskinan.
+                        </h3>
+
+                        <p>
+                            Hubungan antara proporsi lansia dan
+                            tingkat kemiskinan pada masing-masing
+                            tahun relatif lemah. Banyaknya penduduk
+                            lansia tidak dengan sendirinya menentukan
+                            kondisi kesejahteraan suatu wilayah.
+                        </p>
+                    </div>
+                </article>
+
+                <article class="conclusion-finding">
+                    <span class="conclusion-number">03</span>
+
+                    <div>
+                        <h3>
+                            Kecepatan perubahan berbeda antarwilayah.
+                        </h3>
+
+                        <p>
+                            Rata-rata proporsi lansia bertambah
+                            sekitar 1,52 poin persentase antara
+                            2020 dan 2024, tetapi besar perubahan
+                            tersebut tidak sama di setiap wilayah.
+                        </p>
+                    </div>
+                </article>
+
+                <article class="conclusion-finding">
+                    <span class="conclusion-number">04</span>
+
+                    <div>
+                        <h3>
+                            Karakteristik wilayah bersifat multidimensional.
+                        </h3>
+
+                        <p>
+                            Delapan indikator demografi, pendidikan,
+                            kesehatan, dan ekonomi menunjukkan bahwa
+                            setiap kabupaten/kota memiliki kombinasi
+                            karakteristik yang berbeda. Tiga komponen
+                            utama PCA menjelaskan sekitar 84,6% variasi
+                            data.
+                        </p>
+                    </div>
+                </article>
+
+            </div>
+
+            <div class="conclusion-final reveal">
+
+                <p class="finding-kicker">
+                    PESAN UTAMA
+                </p>
+
+                <h3>
+                    Penuaan penduduk terjadi di seluruh wilayah,
+                    tetapi setiap wilayah menghadapinya dengan
+                    karakteristik yang berbeda.
+                </h3>
+
+                <p>
+                    Karena itu, membaca fenomena lansia tidak cukup
+                    hanya dari jumlah atau proporsinya. Konteks
+                    demografi, pendidikan, kesehatan, ekonomi,
+                    dan struktur wilayah perlu dilihat secara
+                    bersamaan.
+                </p>
+
+            </div>
+
+            <div class="conclusion-source reveal">
+
+                <p>
+                    <strong>Sumber data:</strong> Badan Pusat Statistik (BPS)
+                </p>
+
+                <p>
+                    Cakupan analisis: kabupaten/kota di Jawa dan Sumatera,
+                    2020–2024.
+                </p>
+
+            </div>
+
+            <div class="conclusion-end reveal">
+
+                <div class="transition-arrow">↑</div>
+
+                <p>
+                    MENUJU KE ATAS
+                </p>
+
+                <span>
+                    MENUAI KEMBALI PERJALANAN
+                </span>
+
+            </div>
+
+        </div>
+    </section>
+    <!-- JAVASCRIPT LIBRARY-->
+   <!-- Leaflet JS -->
+        <script
+            src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+            integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+            crossorigin=""
+        ></script>
+        <!-- Papa Parse lokal -->
+        <script src="libs/papaparse.min.js"></script>
+        <!-- D3.js -->
+         <script src="https://d3js.org/d3.v7.min.js"></script>
+        <!-- Main JS -->
+        <script src="js/main.js"></script>
+</body>
+</html>
