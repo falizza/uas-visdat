@@ -345,7 +345,100 @@ function setupOpeningScroll() {
     );
 
 }
+function setupBackToTop() {
+    const button = document.querySelector("#back-to-top");
 
+    if (!button) return;
+
+    button.addEventListener("click", () => {
+        const opening = document.querySelector("#opening");
+
+        if (opening) {
+            opening.scrollIntoView({
+                behavior: "smooth",
+                block: "start"
+            });
+        } else {
+            window.scrollTo({
+                top: 0,
+                behavior: "smooth"
+            });
+        }
+    });
+}
+function setupStoryNavigation() {
+    const navItems = document.querySelectorAll(".story-nav-item");
+
+    if (!navItems.length) return;
+
+    navItems.forEach((item) => {
+        item.addEventListener("click", () => {
+            const targetId = item.dataset.target;
+            const target = document.getElementById(targetId);
+
+            if (!target) return;
+
+            target.scrollIntoView({
+                behavior: "smooth",
+                block: "start"
+            });
+        });
+    });
+}
+function setupStoryNavigationObserver() {
+    const navItems = document.querySelectorAll(".story-nav-item");
+
+    if (!navItems.length) return;
+
+    const sections = Array.from(navItems)
+        .map((item) => {
+            const targetId = item.dataset.target;
+            return document.getElementById(targetId);
+        })
+        .filter(Boolean);
+
+    function updateActiveSection() {
+        const viewportCenter = window.scrollY + (window.innerHeight / 2);
+
+        let activeSection = sections[0];
+
+        sections.forEach((section) => {
+            const sectionTop = section.offsetTop;
+            const sectionBottom = sectionTop + section.offsetHeight;
+
+            if (
+                viewportCenter >= sectionTop &&
+                viewportCenter < sectionBottom
+            ) {
+                activeSection = section;
+            }
+        });
+
+        navItems.forEach((item) => {
+            item.classList.toggle(
+                "active",
+                item.dataset.target === activeSection.id
+            );
+        });
+    }
+
+    let ticking = false;
+
+    window.addEventListener("scroll", () => {
+        if (ticking) return;
+
+        window.requestAnimationFrame(() => {
+            updateActiveSection();
+            ticking = false;
+        });
+
+        ticking = true;
+    });
+
+    window.addEventListener("resize", updateActiveSection);
+
+    updateActiveSection();
+}
 
 // KONFIGURASI DATA PETA
 
@@ -1942,9 +2035,7 @@ function setupSpatialSection() {
 
 }
 
-
 // SECTION 03 — LANSIA × KESEJAHTERAAN
-
 const WELFARE_CONFIG = {
 
     csvPath:
@@ -3164,8 +3255,10 @@ document.addEventListener(
         setupOpeningReplay();
 
         setupOpeningScroll();
-
+        setupBackToTop();
         setupSpatialSection();
+        setupStoryNavigation();
+        setupStoryNavigationObserver();
 
         if (
             document.getElementById(
@@ -5174,10 +5267,6 @@ function multivariateFindColumn(row, candidates) {
 }
 
 function multivariateGetId(row) {
-
-    if (row.id) {
-        return row.id;
-    }
 
     const column =
         multivariateFindColumn(
