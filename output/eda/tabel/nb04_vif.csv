@@ -1,0 +1,9 @@
+Variabel,VIF,Keterangan
+jumlah_penduduk,26.367151126049503,Tinggi
+jumlah_lansia,31.322735158839173,Tinggi
+pct_lansia,8.827968737580846,Perlu perhatian
+pct_anak,7.68474835846969,Perlu perhatian
+rls,2.4596829402961458,Rendah
+pengeluaran,2.623316996953949,Rendah
+ahh_rata2,2.209786564749032,Rendah
+delta_pct_lansia,2.0993041540011377,Rendah
