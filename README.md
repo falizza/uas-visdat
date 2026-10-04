@@ -213,7 +213,7 @@ Data batas administrasi kabupaten/kota digunakan sebagai data pendukung untuk ke
 Website dideploy secara publik menggunakan GitHub Pages.
 
 **Website:**  
-`(https://falizza.github.io/uas-visdat/)`
+https://falizza.github.io/uas-visdat/
 
 **Repository:**  
 https://github.com/falizza/uas-visdat
