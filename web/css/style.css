@@ -4152,3 +4152,9 @@ body {
     font-family: inherit;
     font-size: 0.7rem;
 }
+.visual-source {
+    margin: 9px 0 0;
+    color: var(--text-muted);
+    font-size: 0.65rem;
+    line-height: 1.4;
+}
